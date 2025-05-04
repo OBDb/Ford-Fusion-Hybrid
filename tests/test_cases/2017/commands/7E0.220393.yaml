@@ -1,0 +1,324 @@
+command_id: 7E0.220393
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E805620393010A
+  expected_values:
+    FORD_AC_P: 77.16008
+    FORD_[ECU] AC Pressure: 77.16008
+- response: 7E805620393010C
+  expected_values:
+    FORD_AC_P: 77.74023
+    FORD_[ECU] AC Pressure: 77.74023
+- response: 7E805620393010E
+  expected_values:
+    FORD_AC_P: 78.32038
+    FORD_[ECU] AC Pressure: 78.32038
+- response: '7E8056203930110'
+  expected_values:
+    FORD_AC_P: 78.90053
+    FORD_[ECU] AC Pressure: 78.90053
+- response: '7E8056203930112'
+  expected_values:
+    FORD_AC_P: 79.48069
+    FORD_[ECU] AC Pressure: 79.48069
+- response: '7E8056203930114'
+  expected_values:
+    FORD_AC_P: 80.06084
+    FORD_[ECU] AC Pressure: 80.06084
+- response: '7E8056203930117'
+  expected_values:
+    FORD_AC_P: 80.93106
+    FORD_[ECU] AC Pressure: 80.93106
+- response: 7E805620393012B
+  expected_values:
+    FORD_AC_P: 86.73257
+    FORD_[ECU] AC Pressure: 86.73257
+- response: 7E805620393014B
+  expected_values:
+    FORD_AC_P: 96.01499
+    FORD_[ECU] AC Pressure: 96.01499
+- response: '7E8056203930151'
+  expected_values:
+    FORD_AC_P: 97.75544
+    FORD_[ECU] AC Pressure: 97.75544
+- response: 7E805620393015B
+  expected_values:
+    FORD_AC_P: 100.6562
+    FORD_[ECU] AC Pressure: 100.6562
+- response: '7E8056203930161'
+  expected_values:
+    FORD_AC_P: 102.39665
+    FORD_[ECU] AC Pressure: 102.39665
+- response: 7E805620393016C
+  expected_values:
+    FORD_AC_P: 105.58748
+    FORD_[ECU] AC Pressure: 105.58748
+- response: 7E805620393016E
+  expected_values:
+    FORD_AC_P: 106.16763
+    FORD_[ECU] AC Pressure: 106.16763
+- response: '7E8056203930170'
+  expected_values:
+    FORD_AC_P: 106.74778
+    FORD_[ECU] AC Pressure: 106.74778
+- response: '7E8056203930176'
+  expected_values:
+    FORD_AC_P: 108.48824
+    FORD_[ECU] AC Pressure: 108.48824
+- response: '7E8056203930178'
+  expected_values:
+    FORD_AC_P: 109.06839
+    FORD_[ECU] AC Pressure: 109.06839
+- response: 7E805620393017A
+  expected_values:
+    FORD_AC_P: 109.64854
+    FORD_[ECU] AC Pressure: 109.64854
+- response: 7E805620393017D
+  expected_values:
+    FORD_AC_P: 110.51876
+    FORD_[ECU] AC Pressure: 110.51876
+- response: 7E805620393017F
+  expected_values:
+    FORD_AC_P: 111.09892
+    FORD_[ECU] AC Pressure: 111.09892
+- response: '7E8056203930181'
+  expected_values:
+    FORD_AC_P: 111.67907
+    FORD_[ECU] AC Pressure: 111.67907
+- response: '7E8056203930183'
+  expected_values:
+    FORD_AC_P: 112.25922
+    FORD_[ECU] AC Pressure: 112.25922
+- response: '7E8056203930185'
+  expected_values:
+    FORD_AC_P: 112.83937
+    FORD_[ECU] AC Pressure: 112.83937
+- response: '7E8056203930187'
+  expected_values:
+    FORD_AC_P: 113.41952
+    FORD_[ECU] AC Pressure: 113.41952
+- response: '7E8056203930189'
+  expected_values:
+    FORD_AC_P: 113.99967
+    FORD_[ECU] AC Pressure: 113.99967
+- response: 7E805620393018B
+  expected_values:
+    FORD_AC_P: 114.57982
+    FORD_[ECU] AC Pressure: 114.57982
+- response: 7E805620393018D
+  expected_values:
+    FORD_AC_P: 115.15997
+    FORD_[ECU] AC Pressure: 115.15997
+- response: 7E805620393018F
+  expected_values:
+    FORD_AC_P: 115.74012
+    FORD_[ECU] AC Pressure: 115.74012
+- response: '7E8056203930191'
+  expected_values:
+    FORD_AC_P: 116.32027
+    FORD_[ECU] AC Pressure: 116.32027
+- response: '7E8056203930193'
+  expected_values:
+    FORD_AC_P: 116.90042
+    FORD_[ECU] AC Pressure: 116.90042
+- response: '7E8056203930195'
+  expected_values:
+    FORD_AC_P: 117.48058
+    FORD_[ECU] AC Pressure: 117.48058
+- response: '7E8056203930198'
+  expected_values:
+    FORD_AC_P: 118.3508
+    FORD_[ECU] AC Pressure: 118.3508
+- response: 7E805620393019A
+  expected_values:
+    FORD_AC_P: 118.93095
+    FORD_[ECU] AC Pressure: 118.93095
+- response: 7E805620393019C
+  expected_values:
+    FORD_AC_P: 119.5111
+    FORD_[ECU] AC Pressure: 119.5111
+- response: 7E805620393019E
+  expected_values:
+    FORD_AC_P: 120.09126
+    FORD_[ECU] AC Pressure: 120.09126
+- response: 7E80562039301A0
+  expected_values:
+    FORD_AC_P: 120.67141
+    FORD_[ECU] AC Pressure: 120.67141
+- response: 7E80562039301A2
+  expected_values:
+    FORD_AC_P: 121.25156
+    FORD_[ECU] AC Pressure: 121.25156
+- response: 7E80562039301A4
+  expected_values:
+    FORD_AC_P: 121.83171
+    FORD_[ECU] AC Pressure: 121.83171
+- response: 7E80562039301A6
+  expected_values:
+    FORD_AC_P: 122.41186
+    FORD_[ECU] AC Pressure: 122.41186
+- response: 7E80562039301A8
+  expected_values:
+    FORD_AC_P: 122.99201
+    FORD_[ECU] AC Pressure: 122.99201
+- response: 7E80562039301AA
+  expected_values:
+    FORD_AC_P: 123.57216
+    FORD_[ECU] AC Pressure: 123.57216
+- response: 7E80562039301AC
+  expected_values:
+    FORD_AC_P: 124.15231
+    FORD_[ECU] AC Pressure: 124.15231
+- response: 7E80562039301AE
+  expected_values:
+    FORD_AC_P: 124.73246
+    FORD_[ECU] AC Pressure: 124.73246
+- response: 7E80562039301B1
+  expected_values:
+    FORD_AC_P: 125.60269
+    FORD_[ECU] AC Pressure: 125.60269
+- response: 7E80562039301B3
+  expected_values:
+    FORD_AC_P: 126.18284
+    FORD_[ECU] AC Pressure: 126.18284
+- response: 7E80562039301B5
+  expected_values:
+    FORD_AC_P: 126.76299
+    FORD_[ECU] AC Pressure: 126.76299
+- response: 7E80562039301B7
+  expected_values:
+    FORD_AC_P: 127.34314
+    FORD_[ECU] AC Pressure: 127.34314
+- response: 7E80562039301B9
+  expected_values:
+    FORD_AC_P: 127.92329
+    FORD_[ECU] AC Pressure: 127.92329
+- response: 7E80562039301BB
+  expected_values:
+    FORD_AC_P: 128.50344
+    FORD_[ECU] AC Pressure: 128.50344
+- response: 7E80562039301BD
+  expected_values:
+    FORD_AC_P: 129.0836
+    FORD_[ECU] AC Pressure: 129.0836
+- response: 7E80562039301BF
+  expected_values:
+    FORD_AC_P: 129.66375
+    FORD_[ECU] AC Pressure: 129.66375
+- response: 7E80562039301C1
+  expected_values:
+    FORD_AC_P: 130.2439
+    FORD_[ECU] AC Pressure: 130.2439
+- response: 7E80562039301C3
+  expected_values:
+    FORD_AC_P: 130.82405
+    FORD_[ECU] AC Pressure: 130.82405
+- response: 7E80562039301C5
+  expected_values:
+    FORD_AC_P: 131.4042
+    FORD_[ECU] AC Pressure: 131.4042
+- response: 7E80562039301C7
+  expected_values:
+    FORD_AC_P: 131.98435
+    FORD_[ECU] AC Pressure: 131.98435
+- response: 7E80562039301C9
+  expected_values:
+    FORD_AC_P: 132.5645
+    FORD_[ECU] AC Pressure: 132.5645
+- response: 7E80562039301CE
+  expected_values:
+    FORD_AC_P: 134.01488
+    FORD_[ECU] AC Pressure: 134.01488
+- response: 7E80562039301D0
+  expected_values:
+    FORD_AC_P: 134.59503
+    FORD_[ECU] AC Pressure: 134.59503
+- response: 7E80562039301D2
+  expected_values:
+    FORD_AC_P: 135.17518
+    FORD_[ECU] AC Pressure: 135.17518
+- response: 7E80562039301D4
+  expected_values:
+    FORD_AC_P: 135.75533
+    FORD_[ECU] AC Pressure: 135.75533
+- response: 7E80562039301D6
+  expected_values:
+    FORD_AC_P: 136.33548
+    FORD_[ECU] AC Pressure: 136.33548
+- response: 7E80562039301D8
+  expected_values:
+    FORD_AC_P: 136.91563
+    FORD_[ECU] AC Pressure: 136.91563
+- response: 7E80562039301DA
+  expected_values:
+    FORD_AC_P: 137.49579
+    FORD_[ECU] AC Pressure: 137.49579
+- response: 7E80562039301DC
+  expected_values:
+    FORD_AC_P: 138.07594
+    FORD_[ECU] AC Pressure: 138.07594
+- response: 7E80562039301E0
+  expected_values:
+    FORD_AC_P: 139.23624
+    FORD_[ECU] AC Pressure: 139.23624
+- response: 7E80562039301E2
+  expected_values:
+    FORD_AC_P: 139.81639
+    FORD_[ECU] AC Pressure: 139.81639
+- response: 7E80562039301E5
+  expected_values:
+    FORD_AC_P: 140.68662
+    FORD_[ECU] AC Pressure: 140.68662
+- response: 7E80562039301E7
+  expected_values:
+    FORD_AC_P: 141.26677
+    FORD_[ECU] AC Pressure: 141.26677
+- response: 7E80562039301E9
+  expected_values:
+    FORD_AC_P: 141.84692
+    FORD_[ECU] AC Pressure: 141.84692
+- response: 7E80562039301EB
+  expected_values:
+    FORD_AC_P: 142.42707
+    FORD_[ECU] AC Pressure: 142.42707
+- response: 7E80562039301EF
+  expected_values:
+    FORD_AC_P: 143.58737
+    FORD_[ECU] AC Pressure: 143.58737
+- response: 7E80562039301F1
+  expected_values:
+    FORD_AC_P: 144.16752
+    FORD_[ECU] AC Pressure: 144.16752
+- response: 7E80562039301F5
+  expected_values:
+    FORD_AC_P: 145.32782
+    FORD_[ECU] AC Pressure: 145.32782
+- response: 7E805620393020C
+  expected_values:
+    FORD_AC_P: 151.99956
+    FORD_[ECU] AC Pressure: 151.99956
+- response: '7E8056203930214'
+  expected_values:
+    FORD_AC_P: 154.32016
+    FORD_[ECU] AC Pressure: 154.32016
+- response: '7E8056203930216'
+  expected_values:
+    FORD_AC_P: 154.90031
+    FORD_[ECU] AC Pressure: 154.90031
+- response: 7E805620393021F
+  expected_values:
+    FORD_AC_P: 157.51099
+    FORD_[ECU] AC Pressure: 157.51099
+- response: '7E8056203930223'
+  expected_values:
+    FORD_AC_P: 158.6713
+    FORD_[ECU] AC Pressure: 158.6713
+- response: '7E8056203930240'
+  expected_values:
+    FORD_AC_P: 167.08349
+    FORD_[ECU] AC Pressure: 167.08349
+- response: '7E8056203930244'
+  expected_values:
+    FORD_AC_P: 168.24379
+    FORD_[ECU] AC Pressure: 168.24379

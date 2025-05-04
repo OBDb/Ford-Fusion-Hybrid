@@ -1,0 +1,144 @@
+command_id: 7E0.220307
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: '7E8056203073306'
+  expected_values:
+    FORD_LPFP_DUTY: 39.86206
+    FORD_[ECU] LPFP duty cycle: 39.86206
+- response: 7E805620307331D
+  expected_values:
+    FORD_LPFP_DUTY: 39.93225
+    FORD_[ECU] LPFP duty cycle: 39.93225
+- response: '7E8056203073334'
+  expected_values:
+    FORD_LPFP_DUTY: 40.00244
+    FORD_[ECU] LPFP duty cycle: 40.00244
+- response: 7E805620307334A
+  expected_values:
+    FORD_LPFP_DUTY: 40.06958
+    FORD_[ECU] LPFP duty cycle: 40.06958
+- response: 7E805620307335E
+  expected_values:
+    FORD_LPFP_DUTY: 40.13062
+    FORD_[ECU] LPFP duty cycle: 40.13062
+- response: '7E8056203073362'
+  expected_values:
+    FORD_LPFP_DUTY: 40.14282
+    FORD_[ECU] LPFP duty cycle: 40.14282
+- response: '7E8056203073364'
+  expected_values:
+    FORD_LPFP_DUTY: 40.14893
+    FORD_[ECU] LPFP duty cycle: 40.14893
+- response: '7E8056203073375'
+  expected_values:
+    FORD_LPFP_DUTY: 40.20081
+    FORD_[ECU] LPFP duty cycle: 40.20081
+- response: '7E8056203073377'
+  expected_values:
+    FORD_LPFP_DUTY: 40.20691
+    FORD_[ECU] LPFP duty cycle: 40.20691
+- response: 7E805620307337A
+  expected_values:
+    FORD_LPFP_DUTY: 40.21606
+    FORD_[ECU] LPFP duty cycle: 40.21606
+- response: 7E805620307338E
+  expected_values:
+    FORD_LPFP_DUTY: 40.2771
+    FORD_[ECU] LPFP duty cycle: 40.2771
+- response: '7E8056203073390'
+  expected_values:
+    FORD_LPFP_DUTY: 40.2832
+    FORD_[ECU] LPFP duty cycle: 40.2832
+- response: '7E8056203073391'
+  expected_values:
+    FORD_LPFP_DUTY: 40.28625
+    FORD_[ECU] LPFP duty cycle: 40.28625
+- response: 7E80562030733A2
+  expected_values:
+    FORD_LPFP_DUTY: 40.33813
+    FORD_[ECU] LPFP duty cycle: 40.33813
+- response: 7E80562030733A3
+  expected_values:
+    FORD_LPFP_DUTY: 40.34119
+    FORD_[ECU] LPFP duty cycle: 40.34119
+- response: 7E80562030733A4
+  expected_values:
+    FORD_LPFP_DUTY: 40.34424
+    FORD_[ECU] LPFP duty cycle: 40.34424
+- response: 7E80562030733A5
+  expected_values:
+    FORD_LPFP_DUTY: 40.34729
+    FORD_[ECU] LPFP duty cycle: 40.34729
+- response: 7E80562030733A6
+  expected_values:
+    FORD_LPFP_DUTY: 40.35034
+    FORD_[ECU] LPFP duty cycle: 40.35034
+- response: 7E80562030733BB
+  expected_values:
+    FORD_LPFP_DUTY: 40.41443
+    FORD_[ECU] LPFP duty cycle: 40.41443
+- response: 7E80562030733BC
+  expected_values:
+    FORD_LPFP_DUTY: 40.41748
+    FORD_[ECU] LPFP duty cycle: 40.41748
+- response: 7E80562030733BD
+  expected_values:
+    FORD_LPFP_DUTY: 40.42053
+    FORD_[ECU] LPFP duty cycle: 40.42053
+- response: 7E80562030733C1
+  expected_values:
+    FORD_LPFP_DUTY: 40.43274
+    FORD_[ECU] LPFP duty cycle: 40.43274
+- response: 7E80562030733CF
+  expected_values:
+    FORD_LPFP_DUTY: 40.47546
+    FORD_[ECU] LPFP duty cycle: 40.47546
+- response: 7E80562030733D0
+  expected_values:
+    FORD_LPFP_DUTY: 40.47852
+    FORD_[ECU] LPFP duty cycle: 40.47852
+- response: 7E80562030733D2
+  expected_values:
+    FORD_LPFP_DUTY: 40.48462
+    FORD_[ECU] LPFP duty cycle: 40.48462
+- response: 7E80562030733D3
+  expected_values:
+    FORD_LPFP_DUTY: 40.48767
+    FORD_[ECU] LPFP duty cycle: 40.48767
+- response: 7E80562030733D5
+  expected_values:
+    FORD_LPFP_DUTY: 40.49377
+    FORD_[ECU] LPFP duty cycle: 40.49377
+- response: 7E80562030733E6
+  expected_values:
+    FORD_LPFP_DUTY: 40.54565
+    FORD_[ECU] LPFP duty cycle: 40.54565
+- response: 7E80562030733E7
+  expected_values:
+    FORD_LPFP_DUTY: 40.54871
+    FORD_[ECU] LPFP duty cycle: 40.54871
+- response: 7E80562030733EA
+  expected_values:
+    FORD_LPFP_DUTY: 40.55786
+    FORD_[ECU] LPFP duty cycle: 40.55786
+- response: 7E80562030733EB
+  expected_values:
+    FORD_LPFP_DUTY: 40.56091
+    FORD_[ECU] LPFP duty cycle: 40.56091
+- response: '7E8056203073400'
+  expected_values:
+    FORD_LPFP_DUTY: 40.625
+    FORD_[ECU] LPFP duty cycle: 40.625
+- response: '7E8056203073401'
+  expected_values:
+    FORD_LPFP_DUTY: 40.62805
+    FORD_[ECU] LPFP duty cycle: 40.62805
+- response: 7E805620307341A
+  expected_values:
+    FORD_LPFP_DUTY: 40.70435
+    FORD_[ECU] LPFP duty cycle: 40.70435
+- response: '7E8056203076000'
+  expected_values:
+    FORD_LPFP_DUTY: 75
+    FORD_[ECU] LPFP duty cycle: 75

@@ -1,0 +1,748 @@
+command_id: 7E0.22038F
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80562038F0423
+  expected_values:
+    FORD_ECT: 16.54688
+    FORD_[ECU] ECT: 16.54688
+- response: 7E80562038F049F
+  expected_values:
+    FORD_ECT: 18.48438
+    FORD_[ECU] ECT: 18.48438
+- response: 7E80562038F04A0
+  expected_values:
+    FORD_ECT: 18.5
+    FORD_[ECU] ECT: 18.5
+- response: 7E80562038F04A2
+  expected_values:
+    FORD_ECT: 18.53125
+    FORD_[ECU] ECT: 18.53125
+- response: 7E80562038F04A3
+  expected_values:
+    FORD_ECT: 18.54688
+    FORD_[ECU] ECT: 18.54688
+- response: 7E80562038F0513
+  expected_values:
+    FORD_ECT: 20.29688
+    FORD_[ECU] ECT: 20.29688
+- response: 7E80562038F072B
+  expected_values:
+    FORD_ECT: 28.67188
+    FORD_[ECU] ECT: 28.67188
+- response: 7E80562038F07D3
+  expected_values:
+    FORD_ECT: 31.29688
+    FORD_[ECU] ECT: 31.29688
+- response: 7E80562038F07E9
+  expected_values:
+    FORD_ECT: 31.64062
+    FORD_[ECU] ECT: 31.64062
+- response: 7E80562038F08E7
+  expected_values:
+    FORD_ECT: 35.60938
+    FORD_[ECU] ECT: 35.60938
+- response: 7E80562038F08E9
+  expected_values:
+    FORD_ECT: 35.64062
+    FORD_[ECU] ECT: 35.64062
+- response: 7E80562038F09B6
+  expected_values:
+    FORD_ECT: 38.84375
+    FORD_[ECU] ECT: 38.84375
+- response: 7E80562038F09CC
+  expected_values:
+    FORD_ECT: 39.1875
+    FORD_[ECU] ECT: 39.1875
+- response: 7E80562038F0A43
+  expected_values:
+    FORD_ECT: 41.04688
+    FORD_[ECU] ECT: 41.04688
+- response: 7E80562038F0B04
+  expected_values:
+    FORD_ECT: 44.0625
+    FORD_[ECU] ECT: 44.0625
+- response: 7E80562038F0B65
+  expected_values:
+    FORD_ECT: 45.57812
+    FORD_[ECU] ECT: 45.57812
+- response: 7E80562038F0BB4
+  expected_values:
+    FORD_ECT: 46.8125
+    FORD_[ECU] ECT: 46.8125
+- response: 7E80562038F0BB6
+  expected_values:
+    FORD_ECT: 46.84375
+    FORD_[ECU] ECT: 46.84375
+- response: 7E80562038F0C4A
+  expected_values:
+    FORD_ECT: 49.15625
+    FORD_[ECU] ECT: 49.15625
+- response: 7E80562038F0CB4
+  expected_values:
+    FORD_ECT: 50.8125
+    FORD_[ECU] ECT: 50.8125
+- response: 7E80562038F0CB6
+  expected_values:
+    FORD_ECT: 50.84375
+    FORD_[ECU] ECT: 50.84375
+- response: 7E80562038F0CFF
+  expected_values:
+    FORD_ECT: 51.98438
+    FORD_[ECU] ECT: 51.98438
+- response: 7E80562038F0D1F
+  expected_values:
+    FORD_ECT: 52.48438
+    FORD_[ECU] ECT: 52.48438
+- response: 7E80562038F0D22
+  expected_values:
+    FORD_ECT: 52.53125
+    FORD_[ECU] ECT: 52.53125
+- response: 7E80562038F0D61
+  expected_values:
+    FORD_ECT: 53.51562
+    FORD_[ECU] ECT: 53.51562
+- response: 7E80562038F0D7D
+  expected_values:
+    FORD_ECT: 53.95312
+    FORD_[ECU] ECT: 53.95312
+- response: 7E80562038F0D80
+  expected_values:
+    FORD_ECT: 54
+    FORD_[ECU] ECT: 54
+- response: 7E80562038F0D8C
+  expected_values:
+    FORD_ECT: 54.1875
+    FORD_[ECU] ECT: 54.1875
+- response: 7E80562038F0D96
+  expected_values:
+    FORD_ECT: 54.34375
+    FORD_[ECU] ECT: 54.34375
+- response: 7E80562038F0D98
+  expected_values:
+    FORD_ECT: 54.375
+    FORD_[ECU] ECT: 54.375
+- response: 7E80562038F0DA1
+  expected_values:
+    FORD_ECT: 54.51562
+    FORD_[ECU] ECT: 54.51562
+- response: 7E80562038F0DA2
+  expected_values:
+    FORD_ECT: 54.53125
+    FORD_[ECU] ECT: 54.53125
+- response: 7E80562038F0DAB
+  expected_values:
+    FORD_ECT: 54.67188
+    FORD_[ECU] ECT: 54.67188
+- response: 7E80562038F0DB1
+  expected_values:
+    FORD_ECT: 54.76562
+    FORD_[ECU] ECT: 54.76562
+- response: 7E80562038F0DBB
+  expected_values:
+    FORD_ECT: 54.92188
+    FORD_[ECU] ECT: 54.92188
+- response: 7E80562038F0DC8
+  expected_values:
+    FORD_ECT: 55.125
+    FORD_[ECU] ECT: 55.125
+- response: 7E80562038F0DCC
+  expected_values:
+    FORD_ECT: 55.1875
+    FORD_[ECU] ECT: 55.1875
+- response: 7E80562038F0DCF
+  expected_values:
+    FORD_ECT: 55.23438
+    FORD_[ECU] ECT: 55.23438
+- response: 7E80562038F0DD7
+  expected_values:
+    FORD_ECT: 55.35938
+    FORD_[ECU] ECT: 55.35938
+- response: 7E80562038F0DF1
+  expected_values:
+    FORD_ECT: 55.76562
+    FORD_[ECU] ECT: 55.76562
+- response: 7E80562038F0E18
+  expected_values:
+    FORD_ECT: 56.375
+    FORD_[ECU] ECT: 56.375
+- response: 7E80562038F0E19
+  expected_values:
+    FORD_ECT: 56.39062
+    FORD_[ECU] ECT: 56.39062
+- response: 7E80562038F0E26
+  expected_values:
+    FORD_ECT: 56.59375
+    FORD_[ECU] ECT: 56.59375
+- response: 7E80562038F0E2C
+  expected_values:
+    FORD_ECT: 56.6875
+    FORD_[ECU] ECT: 56.6875
+- response: 7E80562038F0E35
+  expected_values:
+    FORD_ECT: 56.82812
+    FORD_[ECU] ECT: 56.82812
+- response: 7E80562038F0E5B
+  expected_values:
+    FORD_ECT: 57.42188
+    FORD_[ECU] ECT: 57.42188
+- response: 7E80562038F0E5E
+  expected_values:
+    FORD_ECT: 57.46875
+    FORD_[ECU] ECT: 57.46875
+- response: 7E80562038F0E6B
+  expected_values:
+    FORD_ECT: 57.67188
+    FORD_[ECU] ECT: 57.67188
+- response: 7E80562038F0E75
+  expected_values:
+    FORD_ECT: 57.82812
+    FORD_[ECU] ECT: 57.82812
+- response: 7E80562038F0E97
+  expected_values:
+    FORD_ECT: 58.35938
+    FORD_[ECU] ECT: 58.35938
+- response: 7E80562038F0EAA
+  expected_values:
+    FORD_ECT: 58.65625
+    FORD_[ECU] ECT: 58.65625
+- response: 7E80562038F0ECC
+  expected_values:
+    FORD_ECT: 59.1875
+    FORD_[ECU] ECT: 59.1875
+- response: 7E80562038F0EED
+  expected_values:
+    FORD_ECT: 59.70312
+    FORD_[ECU] ECT: 59.70312
+- response: 7E80562038F0EF9
+  expected_values:
+    FORD_ECT: 59.89062
+    FORD_[ECU] ECT: 59.89062
+- response: 7E80562038F0F05
+  expected_values:
+    FORD_ECT: 60.07812
+    FORD_[ECU] ECT: 60.07812
+- response: 7E80562038F0F13
+  expected_values:
+    FORD_ECT: 60.29688
+    FORD_[ECU] ECT: 60.29688
+- response: 7E80562038F0F42
+  expected_values:
+    FORD_ECT: 61.03125
+    FORD_[ECU] ECT: 61.03125
+- response: 7E80562038F0F56
+  expected_values:
+    FORD_ECT: 61.34375
+    FORD_[ECU] ECT: 61.34375
+- response: 7E80562038F0F69
+  expected_values:
+    FORD_ECT: 61.64062
+    FORD_[ECU] ECT: 61.64062
+- response: 7E80562038F0F7D
+  expected_values:
+    FORD_ECT: 61.95312
+    FORD_[ECU] ECT: 61.95312
+- response: 7E80562038F0F7F
+  expected_values:
+    FORD_ECT: 61.98438
+    FORD_[ECU] ECT: 61.98438
+- response: 7E80562038F0F88
+  expected_values:
+    FORD_ECT: 62.125
+    FORD_[ECU] ECT: 62.125
+- response: 7E80562038F0F89
+  expected_values:
+    FORD_ECT: 62.14062
+    FORD_[ECU] ECT: 62.14062
+- response: 7E80562038F0F8B
+  expected_values:
+    FORD_ECT: 62.17188
+    FORD_[ECU] ECT: 62.17188
+- response: 7E80562038F0F8D
+  expected_values:
+    FORD_ECT: 62.20312
+    FORD_[ECU] ECT: 62.20312
+- response: 7E80562038F0F9F
+  expected_values:
+    FORD_ECT: 62.48438
+    FORD_[ECU] ECT: 62.48438
+- response: 7E80562038F0FA2
+  expected_values:
+    FORD_ECT: 62.53125
+    FORD_[ECU] ECT: 62.53125
+- response: 7E80562038F0FAC
+  expected_values:
+    FORD_ECT: 62.6875
+    FORD_[ECU] ECT: 62.6875
+- response: 7E80562038F0FB8
+  expected_values:
+    FORD_ECT: 62.875
+    FORD_[ECU] ECT: 62.875
+- response: 7E80562038F0FC9
+  expected_values:
+    FORD_ECT: 63.14062
+    FORD_[ECU] ECT: 63.14062
+- response: 7E80562038F0FD4
+  expected_values:
+    FORD_ECT: 63.3125
+    FORD_[ECU] ECT: 63.3125
+- response: 7E80562038F0FD9
+  expected_values:
+    FORD_ECT: 63.39062
+    FORD_[ECU] ECT: 63.39062
+- response: 7E80562038F0FDB
+  expected_values:
+    FORD_ECT: 63.42188
+    FORD_[ECU] ECT: 63.42188
+- response: 7E80562038F0FE5
+  expected_values:
+    FORD_ECT: 63.57812
+    FORD_[ECU] ECT: 63.57812
+- response: 7E80562038F0FE8
+  expected_values:
+    FORD_ECT: 63.625
+    FORD_[ECU] ECT: 63.625
+- response: 7E80562038F0FF0
+  expected_values:
+    FORD_ECT: 63.75
+    FORD_[ECU] ECT: 63.75
+- response: 7E80562038F0FF6
+  expected_values:
+    FORD_ECT: 63.84375
+    FORD_[ECU] ECT: 63.84375
+- response: 7E80562038F1005
+  expected_values:
+    FORD_ECT: 64.07812
+    FORD_[ECU] ECT: 64.07812
+- response: 7E80562038F101B
+  expected_values:
+    FORD_ECT: 64.42188
+    FORD_[ECU] ECT: 64.42188
+- response: 7E80562038F101F
+  expected_values:
+    FORD_ECT: 64.48438
+    FORD_[ECU] ECT: 64.48438
+- response: 7E80562038F1033
+  expected_values:
+    FORD_ECT: 64.79688
+    FORD_[ECU] ECT: 64.79688
+- response: 7E80562038F1039
+  expected_values:
+    FORD_ECT: 64.89062
+    FORD_[ECU] ECT: 64.89062
+- response: 7E80562038F1044
+  expected_values:
+    FORD_ECT: 65.0625
+    FORD_[ECU] ECT: 65.0625
+- response: 7E80562038F1052
+  expected_values:
+    FORD_ECT: 65.28125
+    FORD_[ECU] ECT: 65.28125
+- response: 7E80562038F106A
+  expected_values:
+    FORD_ECT: 65.65625
+    FORD_[ECU] ECT: 65.65625
+- response: 7E80562038F106E
+  expected_values:
+    FORD_ECT: 65.71875
+    FORD_[ECU] ECT: 65.71875
+- response: 7E80562038F1082
+  expected_values:
+    FORD_ECT: 66.03125
+    FORD_[ECU] ECT: 66.03125
+- response: 7E80562038F1084
+  expected_values:
+    FORD_ECT: 66.0625
+    FORD_[ECU] ECT: 66.0625
+- response: 7E80562038F1089
+  expected_values:
+    FORD_ECT: 66.14062
+    FORD_[ECU] ECT: 66.14062
+- response: 7E80562038F10A5
+  expected_values:
+    FORD_ECT: 66.57812
+    FORD_[ECU] ECT: 66.57812
+- response: 7E80562038F10C1
+  expected_values:
+    FORD_ECT: 67.01562
+    FORD_[ECU] ECT: 67.01562
+- response: 7E80562038F10CC
+  expected_values:
+    FORD_ECT: 67.1875
+    FORD_[ECU] ECT: 67.1875
+- response: 7E80562038F10DC
+  expected_values:
+    FORD_ECT: 67.4375
+    FORD_[ECU] ECT: 67.4375
+- response: 7E80562038F10DD
+  expected_values:
+    FORD_ECT: 67.45312
+    FORD_[ECU] ECT: 67.45312
+- response: 7E80562038F10DE
+  expected_values:
+    FORD_ECT: 67.46875
+    FORD_[ECU] ECT: 67.46875
+- response: 7E80562038F10E9
+  expected_values:
+    FORD_ECT: 67.64062
+    FORD_[ECU] ECT: 67.64062
+- response: 7E80562038F10F1
+  expected_values:
+    FORD_ECT: 67.76562
+    FORD_[ECU] ECT: 67.76562
+- response: 7E80562038F10F9
+  expected_values:
+    FORD_ECT: 67.89062
+    FORD_[ECU] ECT: 67.89062
+- response: 7E80562038F1110
+  expected_values:
+    FORD_ECT: 68.25
+    FORD_[ECU] ECT: 68.25
+- response: 7E80562038F1119
+  expected_values:
+    FORD_ECT: 68.39062
+    FORD_[ECU] ECT: 68.39062
+- response: 7E80562038F1135
+  expected_values:
+    FORD_ECT: 68.82812
+    FORD_[ECU] ECT: 68.82812
+- response: 7E80562038F1150
+  expected_values:
+    FORD_ECT: 69.25
+    FORD_[ECU] ECT: 69.25
+- response: 7E80562038F1162
+  expected_values:
+    FORD_ECT: 69.53125
+    FORD_[ECU] ECT: 69.53125
+- response: 7E80562038F1172
+  expected_values:
+    FORD_ECT: 69.78125
+    FORD_[ECU] ECT: 69.78125
+- response: 7E80562038F1179
+  expected_values:
+    FORD_ECT: 69.89062
+    FORD_[ECU] ECT: 69.89062
+- response: 7E80562038F117E
+  expected_values:
+    FORD_ECT: 69.96875
+    FORD_[ECU] ECT: 69.96875
+- response: 7E80562038F118C
+  expected_values:
+    FORD_ECT: 70.1875
+    FORD_[ECU] ECT: 70.1875
+- response: 7E80562038F11A1
+  expected_values:
+    FORD_ECT: 70.51562
+    FORD_[ECU] ECT: 70.51562
+- response: 7E80562038F11A7
+  expected_values:
+    FORD_ECT: 70.60938
+    FORD_[ECU] ECT: 70.60938
+- response: 7E80562038F11AF
+  expected_values:
+    FORD_ECT: 70.73438
+    FORD_[ECU] ECT: 70.73438
+- response: 7E80562038F11BA
+  expected_values:
+    FORD_ECT: 70.90625
+    FORD_[ECU] ECT: 70.90625
+- response: 7E80562038F11BE
+  expected_values:
+    FORD_ECT: 70.96875
+    FORD_[ECU] ECT: 70.96875
+- response: 7E80562038F11C4
+  expected_values:
+    FORD_ECT: 71.0625
+    FORD_[ECU] ECT: 71.0625
+- response: 7E80562038F11C5
+  expected_values:
+    FORD_ECT: 71.07812
+    FORD_[ECU] ECT: 71.07812
+- response: 7E80562038F11CD
+  expected_values:
+    FORD_ECT: 71.20312
+    FORD_[ECU] ECT: 71.20312
+- response: 7E80562038F11D9
+  expected_values:
+    FORD_ECT: 71.39062
+    FORD_[ECU] ECT: 71.39062
+- response: 7E80562038F11EC
+  expected_values:
+    FORD_ECT: 71.6875
+    FORD_[ECU] ECT: 71.6875
+- response: 7E80562038F11EF
+  expected_values:
+    FORD_ECT: 71.73438
+    FORD_[ECU] ECT: 71.73438
+- response: 7E80562038F1212
+  expected_values:
+    FORD_ECT: 72.28125
+    FORD_[ECU] ECT: 72.28125
+- response: 7E80562038F1238
+  expected_values:
+    FORD_ECT: 72.875
+    FORD_[ECU] ECT: 72.875
+- response: 7E80562038F1248
+  expected_values:
+    FORD_ECT: 73.125
+    FORD_[ECU] ECT: 73.125
+- response: 7E80562038F124B
+  expected_values:
+    FORD_ECT: 73.17188
+    FORD_[ECU] ECT: 73.17188
+- response: 7E80562038F1252
+  expected_values:
+    FORD_ECT: 73.28125
+    FORD_[ECU] ECT: 73.28125
+- response: 7E80562038F125E
+  expected_values:
+    FORD_ECT: 73.46875
+    FORD_[ECU] ECT: 73.46875
+- response: 7E80562038F128A
+  expected_values:
+    FORD_ECT: 74.15625
+    FORD_[ECU] ECT: 74.15625
+- response: 7E80562038F12B7
+  expected_values:
+    FORD_ECT: 74.85938
+    FORD_[ECU] ECT: 74.85938
+- response: 7E80562038F12B8
+  expected_values:
+    FORD_ECT: 74.875
+    FORD_[ECU] ECT: 74.875
+- response: 7E80562038F12BB
+  expected_values:
+    FORD_ECT: 74.92188
+    FORD_[ECU] ECT: 74.92188
+- response: 7E80562038F12E2
+  expected_values:
+    FORD_ECT: 75.53125
+    FORD_[ECU] ECT: 75.53125
+- response: 7E80562038F12F5
+  expected_values:
+    FORD_ECT: 75.82812
+    FORD_[ECU] ECT: 75.82812
+- response: 7E80562038F12FA
+  expected_values:
+    FORD_ECT: 75.90625
+    FORD_[ECU] ECT: 75.90625
+- response: 7E80562038F130F
+  expected_values:
+    FORD_ECT: 76.23438
+    FORD_[ECU] ECT: 76.23438
+- response: 7E80562038F1322
+  expected_values:
+    FORD_ECT: 76.53125
+    FORD_[ECU] ECT: 76.53125
+- response: 7E80562038F132B
+  expected_values:
+    FORD_ECT: 76.67188
+    FORD_[ECU] ECT: 76.67188
+- response: 7E80562038F1334
+  expected_values:
+    FORD_ECT: 76.8125
+    FORD_[ECU] ECT: 76.8125
+- response: 7E80562038F1348
+  expected_values:
+    FORD_ECT: 77.125
+    FORD_[ECU] ECT: 77.125
+- response: 7E80562038F136B
+  expected_values:
+    FORD_ECT: 77.67188
+    FORD_[ECU] ECT: 77.67188
+- response: 7E80562038F138F
+  expected_values:
+    FORD_ECT: 78.23438
+    FORD_[ECU] ECT: 78.23438
+- response: 7E80562038F13A2
+  expected_values:
+    FORD_ECT: 78.53125
+    FORD_[ECU] ECT: 78.53125
+- response: 7E80562038F13B3
+  expected_values:
+    FORD_ECT: 78.79688
+    FORD_[ECU] ECT: 78.79688
+- response: 7E80562038F13D6
+  expected_values:
+    FORD_ECT: 79.34375
+    FORD_[ECU] ECT: 79.34375
+- response: 7E80562038F13D8
+  expected_values:
+    FORD_ECT: 79.375
+    FORD_[ECU] ECT: 79.375
+- response: 7E80562038F13D9
+  expected_values:
+    FORD_ECT: 79.39062
+    FORD_[ECU] ECT: 79.39062
+- response: 7E80562038F13E7
+  expected_values:
+    FORD_ECT: 79.60938
+    FORD_[ECU] ECT: 79.60938
+- response: 7E80562038F13FD
+  expected_values:
+    FORD_ECT: 79.95312
+    FORD_[ECU] ECT: 79.95312
+- response: 7E80562038F1410
+  expected_values:
+    FORD_ECT: 80.25
+    FORD_[ECU] ECT: 80.25
+- response: 7E80562038F1411
+  expected_values:
+    FORD_ECT: 80.26562
+    FORD_[ECU] ECT: 80.26562
+- response: 7E80562038F1437
+  expected_values:
+    FORD_ECT: 80.85938
+    FORD_[ECU] ECT: 80.85938
+- response: 7E80562038F1453
+  expected_values:
+    FORD_ECT: 81.29688
+    FORD_[ECU] ECT: 81.29688
+- response: 7E80562038F145B
+  expected_values:
+    FORD_ECT: 81.42188
+    FORD_[ECU] ECT: 81.42188
+- response: 7E80562038F1497
+  expected_values:
+    FORD_ECT: 82.35938
+    FORD_[ECU] ECT: 82.35938
+- response: 7E80562038F149D
+  expected_values:
+    FORD_ECT: 82.45312
+    FORD_[ECU] ECT: 82.45312
+- response: 7E80562038F14CB
+  expected_values:
+    FORD_ECT: 83.17188
+    FORD_[ECU] ECT: 83.17188
+- response: 7E80562038F14D7
+  expected_values:
+    FORD_ECT: 83.35938
+    FORD_[ECU] ECT: 83.35938
+- response: 7E80562038F14D9
+  expected_values:
+    FORD_ECT: 83.39062
+    FORD_[ECU] ECT: 83.39062
+- response: 7E80562038F14DA
+  expected_values:
+    FORD_ECT: 83.40625
+    FORD_[ECU] ECT: 83.40625
+- response: 7E80562038F14DC
+  expected_values:
+    FORD_ECT: 83.4375
+    FORD_[ECU] ECT: 83.4375
+- response: 7E80562038F14EA
+  expected_values:
+    FORD_ECT: 83.65625
+    FORD_[ECU] ECT: 83.65625
+- response: 7E80562038F14F1
+  expected_values:
+    FORD_ECT: 83.76562
+    FORD_[ECU] ECT: 83.76562
+- response: 7E80562038F14F2
+  expected_values:
+    FORD_ECT: 83.78125
+    FORD_[ECU] ECT: 83.78125
+- response: 7E80562038F14F9
+  expected_values:
+    FORD_ECT: 83.89062
+    FORD_[ECU] ECT: 83.89062
+- response: 7E80562038F14FA
+  expected_values:
+    FORD_ECT: 83.90625
+    FORD_[ECU] ECT: 83.90625
+- response: 7E80562038F14FE
+  expected_values:
+    FORD_ECT: 83.96875
+    FORD_[ECU] ECT: 83.96875
+- response: 7E80562038F1514
+  expected_values:
+    FORD_ECT: 84.3125
+    FORD_[ECU] ECT: 84.3125
+- response: 7E80562038F1518
+  expected_values:
+    FORD_ECT: 84.375
+    FORD_[ECU] ECT: 84.375
+- response: 7E80562038F1520
+  expected_values:
+    FORD_ECT: 84.5
+    FORD_[ECU] ECT: 84.5
+- response: 7E80562038F1522
+  expected_values:
+    FORD_ECT: 84.53125
+    FORD_[ECU] ECT: 84.53125
+- response: 7E80562038F152A
+  expected_values:
+    FORD_ECT: 84.65625
+    FORD_[ECU] ECT: 84.65625
+- response: 7E80562038F1530
+  expected_values:
+    FORD_ECT: 84.75
+    FORD_[ECU] ECT: 84.75
+- response: 7E80562038F1532
+  expected_values:
+    FORD_ECT: 84.78125
+    FORD_[ECU] ECT: 84.78125
+- response: 7E80562038F1534
+  expected_values:
+    FORD_ECT: 84.8125
+    FORD_[ECU] ECT: 84.8125
+- response: 7E80562038F153B
+  expected_values:
+    FORD_ECT: 84.92188
+    FORD_[ECU] ECT: 84.92188
+- response: 7E80562038F1543
+  expected_values:
+    FORD_ECT: 85.04688
+    FORD_[ECU] ECT: 85.04688
+- response: 7E80562038F154B
+  expected_values:
+    FORD_ECT: 85.17188
+    FORD_[ECU] ECT: 85.17188
+- response: 7E80562038F1564
+  expected_values:
+    FORD_ECT: 85.5625
+    FORD_[ECU] ECT: 85.5625
+- response: 7E80562038F1578
+  expected_values:
+    FORD_ECT: 85.875
+    FORD_[ECU] ECT: 85.875
+- response: 7E80562038F157B
+  expected_values:
+    FORD_ECT: 85.92188
+    FORD_[ECU] ECT: 85.92188
+- response: 7E80562038F1590
+  expected_values:
+    FORD_ECT: 86.25
+    FORD_[ECU] ECT: 86.25
+- response: 7E80562038F15AE
+  expected_values:
+    FORD_ECT: 86.71875
+    FORD_[ECU] ECT: 86.71875
+- response: 7E80562038F15B5
+  expected_values:
+    FORD_ECT: 86.82812
+    FORD_[ECU] ECT: 86.82812
+- response: 7E80562038F15B7
+  expected_values:
+    FORD_ECT: 86.85938
+    FORD_[ECU] ECT: 86.85938
+- response: 7E80562038F15BB
+  expected_values:
+    FORD_ECT: 86.92188
+    FORD_[ECU] ECT: 86.92188
+- response: 7E80562038F15DD
+  expected_values:
+    FORD_ECT: 87.45312
+    FORD_[ECU] ECT: 87.45312
+- response: 7E80562038F1613
+  expected_values:
+    FORD_ECT: 88.29688
+    FORD_[ECU] ECT: 88.29688
+- response: 7E80562038F1678
+  expected_values:
+    FORD_ECT: 89.875
+    FORD_[ECU] ECT: 89.875
+- response: 7E80562038F1687
+  expected_values:
+    FORD_ECT: 90.10938
+    FORD_[ECU] ECT: 90.10938
