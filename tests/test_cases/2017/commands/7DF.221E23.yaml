@@ -2,41 +2,27 @@ command_id: 7DF.221E23
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 7E804621E2328
-  expected_values:
-    FORD_GEAR_SHFT: 40
 - response: |-
     7E804621E2328
     7EE04621E232B
   expected_values:
-    FORD_GEAR_SHFT: 43
-- response: 7E804621E233C
-  expected_values:
-    FORD_GEAR_SHFT: 60
-- response: 7E804621E2346
-  expected_values:
-    FORD_GEAR_SHFT: 70
-- response: |-
-    7E804621E2346
-    7EE037F2222
-  expected_values:
-    FORD_GEAR_SHFT: 70
+    FORD_GEAR_SHFT_V2: 43
 - response: 7EE04621E232B
   expected_values:
-    FORD_GEAR_SHFT: 43
+    FORD_GEAR_SHFT_V2: 43
 - response: |-
     7EE04621E232B
     7E804621E2328
   expected_values:
-    FORD_GEAR_SHFT: 40
+    FORD_GEAR_SHFT_V2: 43
 - response: 7EE04621E233C
   expected_values:
-    FORD_GEAR_SHFT: 60
+    FORD_GEAR_SHFT_V2: 60
 - response: 7EE04621E2346
   expected_values:
-    FORD_GEAR_SHFT: 70
+    FORD_GEAR_SHFT_V2: 70
 - response: |-
     7EE04621E2346
     7E804621E2346
   expected_values:
-    FORD_GEAR_SHFT: 70
+    FORD_GEAR_SHFT_V2: 70
