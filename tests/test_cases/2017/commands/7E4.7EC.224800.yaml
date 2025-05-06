@@ -2,6 +2,21 @@ command_id: 7E4.7EC.224800
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
+- response: 7EC046248003C
+  expected_values:
+    FORD_HVBAT_T: 10
+- response: 7EC046248003D
+  expected_values:
+    FORD_HVBAT_T: 11
+- response: 7EC046248003E
+  expected_values:
+    FORD_HVBAT_T: 12
+- response: 7EC046248003F
+  expected_values:
+    FORD_HVBAT_T: 13
+- response: 7EC0462480040
+  expected_values:
+    FORD_HVBAT_T: 14
 - response: 7EC0462480041
   expected_values:
     FORD_HVBAT_T: 15
