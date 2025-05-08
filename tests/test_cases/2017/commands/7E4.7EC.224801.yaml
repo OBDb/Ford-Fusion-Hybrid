@@ -2,15 +2,15 @@ command_id: 7E4.7EC.224801
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 7EC0562480145FA
+- response: 7EC05624801441F
   expected_values:
-    FORD_HVBAT_SOC: 35.828
-- response: 7EC056248015FFF
+    FORD_HVBAT_SOC: 34.878
+- response: 7EC056248015600
   expected_values:
-    FORD_HVBAT_SOC: 49.15
-- response: 7EC056248016A01
+    FORD_HVBAT_SOC: 44.032
+- response: 7EC0562480157FF
   expected_values:
-    FORD_HVBAT_SOC: 54.274
-- response: 7EC05624801801E
+    FORD_HVBAT_SOC: 45.054
+- response: 7EC0562480185C5
   expected_values:
-    FORD_HVBAT_SOC: 65.596
+    FORD_HVBAT_SOC: 68.49
