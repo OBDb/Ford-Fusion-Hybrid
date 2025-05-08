@@ -2,7 +2,7 @@ command_id: 7E0.22038E
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 7E80562038E0448
+- response: 7E80562038E0420
   expected_values:
     FORD_EVAP_V: 5
     FORD_[ECU] Evap Pres Sensor V: 5
@@ -10,7 +10,7 @@ test_cases:
   expected_values:
     FORD_EVAP_V: 5
     FORD_[ECU] Evap Pres Sensor V: 5
-- response: 7E80562038E0501
+- response: 7E80562038E0600
   expected_values:
     FORD_EVAP_V: 5
     FORD_[ECU] Evap Pres Sensor V: 5

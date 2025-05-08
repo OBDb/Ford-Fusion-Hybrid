@@ -10,11 +10,11 @@ test_cases:
   expected_values:
     FORD_MAP_V: 1.25586
     FORD_[ECU] MAP voltage: 1.25586
-- response: 7E80562030109FD
+- response: 7E8056203010EFE
   expected_values:
-    FORD_MAP_V: 2.49707
-    FORD_[ECU] MAP voltage: 2.49707
-- response: 7E8056203010F26
+    FORD_MAP_V: 3.74805
+    FORD_[ECU] MAP voltage: 3.74805
+- response: 7E8056203010F12
   expected_values:
-    FORD_MAP_V: 3.78711
-    FORD_[ECU] MAP voltage: 3.78711
+    FORD_MAP_V: 3.76758
+    FORD_[ECU] MAP voltage: 3.76758
