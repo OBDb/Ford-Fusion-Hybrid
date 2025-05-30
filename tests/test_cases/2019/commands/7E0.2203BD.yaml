@@ -1,0 +1,29 @@
+command_id: 7E0.2203BD
+test_cases:
+- response: 7E8056203BD0000
+  expected_values:
+    FORD_CL_LC: 0
+- response: 7E8056203BD004F
+  expected_values:
+    FORD_CL_LC: 0.00964
+- response: 7E8056203BD0050
+  expected_values:
+    FORD_CL_LC: 0.00977
+- response: 7E8056203BD0051
+  expected_values:
+    FORD_CL_LC: 0.00989
+- response: 7E8056203BD0052
+  expected_values:
+    FORD_CL_LC: 0.01001
+- response: 7E8056203BDFFAF
+  expected_values:
+    FORD_CL_LC: 5
+- response: 7E8056203BDFFB0
+  expected_values:
+    FORD_CL_LC: 5
+- response: 7E8056203BDFFB1
+  expected_values:
+    FORD_CL_LC: 5
+- response: 7E8056203BDFFB6
+  expected_values:
+    FORD_CL_LC: 5
