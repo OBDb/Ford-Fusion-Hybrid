@@ -1,0 +1,31 @@
+command_id: 7E6.7EE.221E1C|fc=1
+test_cases:
+- expected_values:
+    FORD_TT: 26.6875
+  response: |-
+    7E805621E1C00F8
+    7EE05621E1C01AB
+- expected_values:
+    FORD_TT: 60.6875
+  response: |-
+    7E805621E1C00F8
+    7EE05621E1C03CB
+- expected_values:
+    FORD_TT: 18.9375
+  response: |-
+    7EE05621E1C012F
+    7E805621E1C00F8
+- expected_values:
+    FORD_TT: 19
+  response: 7EE05621E1C0130
+- expected_values:
+    FORD_TT: 62.25
+  response: |-
+    7EE05621E1C03E4
+    7E805621E1C00F8
+- expected_values:
+    FORD_TT: 63.9375
+  response: 7EE05621E1C03FF
+- expected_values:
+    FORD_TT: 64
+  response: 7EE05621E1C0400

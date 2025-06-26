@@ -1,5 +1,5 @@
 command_id: 7E4.7EC.224800|fc=1
 test_cases:
-- response: 7EC0462480048
-  expected_values:
+- expected_values:
     FORD_HVBAT_T: 22
+  response: 7EC0462480048

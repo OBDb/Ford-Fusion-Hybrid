@@ -1,11 +1,11 @@
 command_id: 7E4.7EC.224810|fc=1
 test_cases:
-- response: 7EC056248101790
-  expected_values:
+- expected_values:
     FORD_HVBAT_AGE: 21715.2
-- response: 7EC0562481017FF
-  expected_values:
+  response: 7EC056248101790
+- expected_values:
     FORD_HVBAT_AGE: 22114.8
-- response: 7EC056248101806
-  expected_values:
+  response: 7EC0562481017FF
+- expected_values:
     FORD_HVBAT_AGE: 22140
+  response: 7EC056248101806
