@@ -7,6 +7,11 @@ test_cases:
     FORD_GEAR_SHFT: PARK
   response: 7E804621E2346
 - expected_values:
+    FORD_GEAR_SHFT: REVERSE
+  response: |-
+    7EE04621E233C
+    7E804621E233C
+- expected_values:
     FORD_GEAR_SHFT: PARK
   response: |-
     7EE04621E2346

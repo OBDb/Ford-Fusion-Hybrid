@@ -112,6 +112,9 @@ supported_commands_by_ecu:
   - 0131:CLR_DIST
   - 0142:VPWR
   - 0149:APP_D
+  - 7E6.7EE.010D
+  - 7E6.7EE.0131
+  - 7E6.7EE.0142
   - 7E6.7EE.221E1C|fc=1:FORD_TT
 unsupported_commands_by_ecu:
   "720":
@@ -153,7 +156,3 @@ unsupported_commands_by_ecu:
   - 7E4.7EC.224848|fc=1:FORD_HVBAT_KWH
   - 7E4.7EC.22484F|fc=1:FORD_CHRG_STATE
   - 7E4.7EC.22490C|fc=1:FORD_HVBAT_SOH
-  "7E6":
-  - 7E6.7EE.010D
-  - 7E6.7EE.0131
-  - 7E6.7EE.0142
