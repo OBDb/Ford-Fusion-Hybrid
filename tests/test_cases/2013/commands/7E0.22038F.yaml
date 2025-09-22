@@ -4,11 +4,11 @@ test_cases:
     FORD_ECT: 21.65625
   response: 7E80562038F056A
 - expected_values:
-    FORD_ECT: 88
-  response: 7E80562038F1600
+    FORD_ECT: 83.98438
+  response: 7E80562038F14FF
 - expected_values:
-    FORD_ECT: 91.98438
-  response: 7E80562038F16FF
+    FORD_ECT: 84
+  response: 7E80562038F1500
 - expected_values:
     FORD_ECT: 96.01562
   response: 7E80562038F1801

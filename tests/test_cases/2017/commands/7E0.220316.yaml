@@ -4,8 +4,8 @@ test_cases:
     FORD_VCT_INT_DUTY: 0
   response: '7E8056203160000'
 - expected_values:
-    FORD_VCT_INT_DUTY: 40.62195
-  response: 7E80562031633FF
+    FORD_VCT_INT_DUTY: 36.7157
+  response: 7E8056203162EFF
 - expected_values:
     FORD_VCT_INT_DUTY: 79.99878
   response: '7E8056203166666'

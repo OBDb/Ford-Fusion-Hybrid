@@ -4,29 +4,11 @@ test_cases:
     FORD_OAR: 0.00085
   response: 7E8056203E8000E
 - expected_values:
-    FORD_OAR: 0.06201
-  response: 7E8056203E803F8
-- expected_values:
-    FORD_OAR: 0.13123
-  response: 7E8056203E80866
-- expected_values:
-    FORD_OAR: 0.1781
-  response: 7E8056203E80B66
-- expected_values:
-    FORD_OAR: 0.22498
-  response: 7E8056203E80E66
+    FORD_OAR: 1
+  response: 7E8056203E8DDFB
 - expected_values:
     FORD_OAR: 1
-  response: 7E8056203E8DD3F
+  response: 7E8056203E8E501
 - expected_values:
     FORD_OAR: 1
-  response: 7E8056203E8EF8F
-- expected_values:
-    FORD_OAR: 1
-  response: 7E8056203E8F00F
-- expected_values:
-    FORD_OAR: 1
-  response: 7E8056203E8F80F
-- expected_values:
-    FORD_OAR: 1
-  response: 7E8056203E8FA0E
+  response: 7E8056203E8FF2C

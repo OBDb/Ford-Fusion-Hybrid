@@ -4,20 +4,5 @@ test_cases:
     FORD_ACC_POS: 0
   response: 7E80462032B00
 - expected_values:
-    FORD_ACC_POS: 3
-  response: 7E80462032B06
-- expected_values:
-    FORD_ACC_POS: 23
-  response: 7E80462032B2E
-- expected_values:
-    FORD_ACC_POS: 23.5
-  response: 7E80462032B2F
-- expected_values:
-    FORD_ACC_POS: 24
-  response: 7E80462032B30
-- expected_values:
-    FORD_ACC_POS: 31
-  response: 7E80462032B3E
-- expected_values:
-    FORD_ACC_POS: 35
-  response: 7E80462032B46
+    FORD_ACC_POS: 38
+  response: 7E80462032B4C
