@@ -9,3 +9,8 @@ test_cases:
 - expected_values:
     FORD_VCT_INT_DUTY: 79.99878
   response: '7E8056203166666'
+- expected_values:
+    FORD_VCT_INT_DUTY: 79.99878
+  response: |-
+    7E8056203166666
+    7E8035902FF
