@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     FORD_12V_SOC: 89
   response: '72E0462402859'
+- expected_values:
+    FORD_12V_SOC: 90
+  response: 72E046240285A
