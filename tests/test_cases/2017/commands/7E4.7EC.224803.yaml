@@ -1,8 +1,8 @@
 command_id: 7E4.7EC.224803
 test_cases:
 - expected_values:
-    FORD_HV_POS_LEAK_V: 0.001
-  response: 7EC056248030001
+    FORD_HV_POS_LEAK_V: 0
+  response: 7EC056248030000
 - expected_values:
     FORD_HV_POS_LEAK_V: 1.838
   response: 7EC05624803072E
