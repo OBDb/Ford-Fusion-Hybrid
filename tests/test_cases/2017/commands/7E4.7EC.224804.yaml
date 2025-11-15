@@ -4,8 +4,8 @@ test_cases:
     FORD_HV_NEG_LEAK_V: 0
   response: 7EC056248040000
 - expected_values:
-    FORD_HV_NEG_LEAK_V: 0.497
-  response: 7EC0562480401F1
+    FORD_HV_NEG_LEAK_V: 0.501
+  response: 7EC0562480401F5
 - expected_values:
     FORD_HV_NEG_LEAK_V: 2.093
   response: 7EC05624804082D
