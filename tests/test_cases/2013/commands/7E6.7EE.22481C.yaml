@@ -1,0 +1,11 @@
+command_id: 7E6.7EE.22481C
+test_cases:
+- expected_values:
+    FORD_PRI_MOTOR_TQ: 0.1
+  response: 7EE0562481C0001
+- expected_values:
+    FORD_PRI_MOTOR_TQ: -18
+  response: 7EE0562481CFF4C
+- expected_values:
+    FORD_PRI_MOTOR_TQ: -0.2
+  response: 7EE0562481CFFFE
