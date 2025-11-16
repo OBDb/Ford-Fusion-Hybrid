@@ -1,14 +1,14 @@
 command_id: 7E4.7EC.22480B
 test_cases:
 - expected_values:
-    FORD_HVBAT_A_ALT: 1.72
-  response: 7EC0562480B0056
+    FORD_HVBAT_A_ALT: 0.78
+  response: 7EC0562480B0027
 - expected_values:
-    FORD_HVBAT_A_ALT: 40.32
-  response: 7EC0562480B07E0
+    FORD_HVBAT_A_ALT: 10.22
+  response: 7EC0562480B01FF
 - expected_values:
-    FORD_HVBAT_A_ALT: -20.22
-  response: 7EC0562480BFC0D
+    FORD_HVBAT_A_ALT: 10.24
+  response: 7EC0562480B0200
 - expected_values:
-    FORD_HVBAT_A_ALT: -3.7
-  response: 7EC0562480BFF47
+    FORD_HVBAT_A_ALT: -4.66
+  response: 7EC0562480BFF17

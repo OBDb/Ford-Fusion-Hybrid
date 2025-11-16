@@ -1,6 +1,18 @@
 command_id: 7E0.7E8.220580
 test_cases:
 - expected_values:
+    FORD_GRILL_SHUTTER_POSITION: 0
+  response: '7E80462058000'
+- expected_values:
+    FORD_GRILL_SHUTTER_POSITION: 6.27451
+  response: '7E80462058010'
+- expected_values:
+    FORD_GRILL_SHUTTER_POSITION: 12.54902
+  response: '7E80462058020'
+- expected_values:
+    FORD_GRILL_SHUTTER_POSITION: 18.82353
+  response: '7E80462058030'
+- expected_values:
     FORD_GRILL_SHUTTER_POSITION: 25.09804
   response: '7E80462058040'
 - expected_values:

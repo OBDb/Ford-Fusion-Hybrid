@@ -1,32 +1,8 @@
 command_id: 7E6.7EE.22481F
 test_cases:
 - expected_values:
-    FORD_PRI_MOTOR_COIL_T: 58
-  response: 7EE0562481F003A
+    FORD_PRI_MOTOR_COIL_T: 56
+  response: 7EE0562481F0038
 - expected_values:
-    FORD_PRI_MOTOR_COIL_T: 59
-  response: 7EE0562481F003B
-- expected_values:
-    FORD_PRI_MOTOR_COIL_T: 60
-  response: 7EE0562481F003C
-- expected_values:
-    FORD_PRI_MOTOR_COIL_T: 61
-  response: 7EE0562481F003D
-- expected_values:
-    FORD_PRI_MOTOR_COIL_T: 64
-  response: 7EE0562481F0040
-- expected_values:
-    FORD_PRI_MOTOR_COIL_T: 65
-  response: 7EE0562481F0041
-- expected_values:
-    FORD_PRI_MOTOR_COIL_T: 66
-  response: 7EE0562481F0042
-- expected_values:
-    FORD_PRI_MOTOR_COIL_T: 67
-  response: 7EE0562481F0043
-- expected_values:
-    FORD_PRI_MOTOR_COIL_T: 68
-  response: 7EE0562481F0044
-- expected_values:
-    FORD_PRI_MOTOR_COIL_T: 69
-  response: 7EE0562481F0045
+    FORD_PRI_MOTOR_COIL_T: 97
+  response: 7EE0562481F0061
