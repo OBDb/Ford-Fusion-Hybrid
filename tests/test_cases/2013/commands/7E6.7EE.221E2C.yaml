@@ -4,8 +4,8 @@ test_cases:
     FORD_PRI_MOTOR_RPM: 0
   response: 7EE05621E2C0000
 - expected_values:
-    FORD_PRI_MOTOR_RPM: 4078
-  response: 7EE05621E2C0FEE
+    FORD_PRI_MOTOR_RPM: -6
+  response: 7EE05621E2CFFFA
 - expected_values:
-    FORD_PRI_MOTOR_RPM: 6932
-  response: 7EE05621E2C1B14
+    FORD_PRI_MOTOR_RPM: -2
+  response: 7EE05621E2CFFFE

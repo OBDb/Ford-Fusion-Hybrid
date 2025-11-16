@@ -1,8 +1,8 @@
 command_id: 7E6.7EE.22481F
 test_cases:
 - expected_values:
-    FORD_PRI_MOTOR_COIL_T: 20
-  response: 7EE0562481F0014
+    FORD_PRI_MOTOR_COIL_T: 14
+  response: 7EE0562481F000E
 - expected_values:
     FORD_PRI_MOTOR_COIL_T: 69
   response: 7EE0562481F0045

@@ -9,6 +9,6 @@ test_cases:
     FORD_[ECU] VCT INT DES: 0
   response: 7E8056203BCFDFE
 - expected_values:
-    FORD_VCT_INT_DES: -15.5
+    FORD_VCT_INT_DES: -15.875
     FORD_[ECU] VCT INT DES: 0
-  response: 7E8056203BCFF08
+  response: 7E8056203BCFF02
