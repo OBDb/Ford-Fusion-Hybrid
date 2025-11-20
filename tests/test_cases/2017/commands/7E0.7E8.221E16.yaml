@@ -4,8 +4,8 @@ test_cases:
     FORD_AXLE_GEAR_RATIO_MEAS: 0
   response: 7E805621E160000
 - expected_values:
-    FORD_AXLE_GEAR_RATIO_MEAS: 3.98999
-  response: 7E805621E163FD7
+    FORD_AXLE_GEAR_RATIO_MEAS: 2.43115
+  response: 7E805621E1626E6
 - expected_values:
     FORD_AXLE_GEAR_RATIO_MEAS: 7.70972
   response: 7E805621E167B5B

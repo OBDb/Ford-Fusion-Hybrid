@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     FORD_IGN_TIM_CYL1: -12
   response: 7E80562116BFFD0
+- expected_values:
+    FORD_IGN_TIM_CYL1: -10
+  response: 7E80562116BFFD8
