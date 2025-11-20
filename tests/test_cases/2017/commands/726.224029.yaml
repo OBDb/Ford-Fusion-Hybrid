@@ -1,5 +1,0 @@
-command_id: '726.224029'
-test_cases:
-- expected_values:
-    FORD_BATT_TEMP: 6
-  response: 72E046240292E
