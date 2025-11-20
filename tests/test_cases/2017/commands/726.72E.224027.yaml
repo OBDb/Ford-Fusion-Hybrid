@@ -1,5 +1,17 @@
-command_id: '726.224027'
+command_id: 726.72E.224027
 test_cases:
+- expected_values:
+    FORD_12V_AGE: 82896
+    FORD_BATT_AGE: 1825
+  response: |-
+    7060319028F
+    72E056240270D7E
+    7110319028F
+    7140319028F
+- expected_values:
+    FORD_12V_AGE: 52104
+    FORD_BATT_AGE: 1825
+  response: 72E05624027087B
 - expected_values:
     FORD_12V_AGE: 82776
     FORD_BATT_AGE: 1825
