@@ -11,7 +11,16 @@ test_cases:
   response: '7E80762070001800800'
 - expected_values:
     FORD_IAT_FAULT: 2
+  response: '7E80762070002800000'
+- expected_values:
+    FORD_IAT_FAULT: 2
   response: '7E80762070002800800'
+- expected_values:
+    FORD_IAT_FAULT: 4
+  response: '7E80762070004800000'
+- expected_values:
+    FORD_IAT_FAULT: 6
+  response: '7E80762070006800000'
 - expected_values:
     FORD_IAT_FAULT: 8
   response: '7E80762070008800000'
