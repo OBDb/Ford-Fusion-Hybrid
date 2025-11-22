@@ -1,9 +1,9 @@
 command_id: 7E0.7E8.220353
 test_cases:
 - expected_values:
-    FORD_BARO: 9.78895
-    FORD_[ECU] BARO: 9.78895
-  response: 7E805620353010E
+    FORD_BARO: 9.28138
+    FORD_[ECU] BARO: 9.28138
+  response: '7E8056203530100'
 - expected_values:
     FORD_BARO: 14.64717
     FORD_[ECU] BARO: 14.64717
