@@ -7,7 +7,7 @@ test_cases:
     FORD_TOT: 15.5
   response: |-
     7E805621E1C00F8
-    7EE05621E1C00E6
+    7EE05621E1C0001
 - expected_values:
     FORD_TOT: 15.5
   response: |-
@@ -17,4 +17,9 @@ test_cases:
     FORD_TOT: 15.5
   response: |-
     7EE05621E1C0244
+    7E805621E1C00F8
+- expected_values:
+    FORD_TOT: 15.5
+  response: |-
+    7EE05621E1CFFFB
     7E805621E1C00F8
