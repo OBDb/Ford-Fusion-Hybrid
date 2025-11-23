@@ -23,5 +23,5 @@ test_cases:
     73E035902FB
     7370319028F
 - expected_values:
-    FORD_BATT_TEMP: 10
-  response: '72E0462402932'
+    FORD_BATT_TEMP: 11
+  response: '72E0462402933'
