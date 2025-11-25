@@ -6,6 +6,11 @@ test_cases:
     7E805621E1C00F8
     7EE05621E1C0001
 - expected_values:
+    FORD_TT: 22.9375
+  response: |-
+    7E805621E1C00F8
+    7EE05621E1C016F
+- expected_values:
     FORD_TT: 0.375
   response: 7EE05621E1C0006
 - expected_values:
