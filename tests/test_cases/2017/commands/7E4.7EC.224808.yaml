@@ -2,10 +2,10 @@ command_id: 7E4.7EC.224808
 test_cases:
 - expected_values:
     FORD_T_RANGE: 1
-    FORD_T_RANGE_AVG: 0
-    FORD_T_RANGE_MAX: 1
-    FORD_T_RANGE_MIN: 0
-  response: 7EC0762480833323332
+    FORD_T_RANGE_AVG: -1
+    FORD_T_RANGE_MAX: 0
+    FORD_T_RANGE_MIN: -1
+  response: 7EC0762480832313331
 - expected_values:
     FORD_T_RANGE: 0
     FORD_T_RANGE_AVG: 1
