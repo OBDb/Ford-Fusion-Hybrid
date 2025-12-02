@@ -4,5 +4,5 @@ test_cases:
     FORD_HVBAT_MOD_V: 0.005
   response: 7EC0562483F0005
 - expected_values:
-    FORD_HVBAT_MOD_V: 0.066
-  response: 7EC0562483F0042
+    FORD_HVBAT_MOD_V: 0.076
+  response: 7EC0562483F004C
