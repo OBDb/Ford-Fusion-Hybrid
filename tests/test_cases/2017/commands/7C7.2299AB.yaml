@@ -4,6 +4,17 @@ test_cases:
     FORD_AC_COMP_A: 0
   response: 7CF056299AB0000
 - expected_values:
+    FORD_AC_COMP_A: 0
+  response: |-
+    7CF056299AB0000
+    7D50319028F
+    7E00319028F
+    7E8035902FF
+    7E40319028F
+    7EC035902FF
+    7E60319028F
+    7EE035902FF
+- expected_values:
     FORD_AC_COMP_A: 5.39872
   response: 7CF056299AB06E9
 - expected_values:
