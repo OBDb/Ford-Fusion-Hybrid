@@ -6,3 +6,8 @@ test_cases:
 - expected_values:
     FORD_ENG_LOAD_PCT: 99.60784
   response: 7E80462F404FE
+- expected_values:
+    FORD_ENG_LOAD_PCT: 0
+  response: |-
+    7EC0462F40400
+    7E80462F40400
