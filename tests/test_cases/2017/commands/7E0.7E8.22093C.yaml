@@ -1,13 +1,13 @@
 command_id: 7E0.7E8.22093C
 test_cases:
 - expected_values:
+    FORD_ETC_ANG_ACT: 0.99805
+    FORD_THROTTLE_POS_ACT: 6.23779
+  response: 7E80562093C01FF
+- expected_values:
     FORD_ETC_ANG_ACT: 1
     FORD_THROTTLE_POS_ACT: 6.25
   response: 7E80562093C0200
-- expected_values:
-    FORD_ETC_ANG_ACT: 2.49805
-    FORD_THROTTLE_POS_ACT: 15.61279
-  response: 7E80562093C04FF
 - expected_values:
     FORD_ETC_ANG_ACT: 68.06836
     FORD_THROTTLE_POS_ACT: 100
