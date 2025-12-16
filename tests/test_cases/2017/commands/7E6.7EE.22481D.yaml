@@ -1,8 +1,8 @@
 command_id: 7E6.7EE.22481D
 test_cases:
 - expected_values:
-    FORD_PRI_MOTOR_INV_V: 249.1
-  response: 7EE0562481D09BB
+    FORD_PRI_MOTOR_INV_V: 245.9
+  response: 7EE0562481D099B
 - expected_values:
     FORD_PRI_MOTOR_INV_V: 281.5
   response: 7EE0562481D0AFF
