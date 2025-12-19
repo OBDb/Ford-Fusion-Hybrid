@@ -51,8 +51,8 @@ test_cases:
     7EC035902FF
     7EE035902FF
 - expected_values:
-    FORD_TT: -7.4375
-  response: 7EE05621E1CFF89
+    FORD_TT: -8.875
+  response: 7EE05621E1CFF72
 - expected_values:
     FORD_TT: -4.9375
   response: |-
