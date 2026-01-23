@@ -16,10 +16,10 @@ test_cases:
     7E805621E1C00F8
     7EE05621E1C01C0
 - expected_values:
-    FORD_TT: 39.6875
+    FORD_TT: -3.125
   response: |-
     7E805621E1C00F8
-    7EE05621E1C027B
+    7EE05621E1CFFCE
 - expected_values:
     FORD_TT: 0
   response: 7EE05621E1C0000
@@ -52,7 +52,7 @@ test_cases:
     7EC035902FF
     7EE035902FF
 - expected_values:
-    FORD_TT: -2.3125
+    FORD_TT: -3.4375
   response: |-
-    7EE05621E1CFFDB
+    7EE05621E1CFFC9
     7E805621E1C00F8
