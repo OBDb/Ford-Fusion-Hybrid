@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_Fusion_Hybrid"
+
 generations:
   - name: "First Generation"
     start_year: 2010
