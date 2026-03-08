@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220345
+test_cases:
+- expected_values:
+    FORD_PCM_MISF_EVENTS_LATEST_CYC: 8
+  response: '7E80762034500000008'
+- expected_values:
+    FORD_PCM_MISF_EVENTS_LATEST_CYC: 9
+  response: '7E80762034500000009'
+- expected_values:
+    FORD_PCM_MISF_EVENTS_LATEST_CYC: 10
+  response: 7E8076203450000000A
