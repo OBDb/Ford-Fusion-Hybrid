@@ -18,3 +18,6 @@ test_cases:
 - expected_values:
     FORD_PCM_MISF_ACCEL_CYL2_NORM: -0.1875
   response: 7E804620388F4
+- expected_values:
+    FORD_PCM_MISF_ACCEL_CYL2_NORM: -0.10938
+  response: 7E804620388F9
