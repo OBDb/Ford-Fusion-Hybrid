@@ -4,20 +4,8 @@ test_cases:
     FORD_RUN_TIME: 284
   response: 7E80562F41F011C
 - expected_values:
-    FORD_RUN_TIME: 322
-  response: 7E80562F41F0142
+    FORD_RUN_TIME: 1252
+  response: 7E80562F41F04E4
 - expected_values:
-    FORD_RUN_TIME: 356
-  response: 7E80562F41F0164
-- expected_values:
-    FORD_RUN_TIME: 381
-  response: 7E80562F41F017D
-- expected_values:
-    FORD_RUN_TIME: 411
-  response: 7E80562F41F019B
-- expected_values:
-    FORD_RUN_TIME: 438
-  response: 7E80562F41F01B6
-- expected_values:
-    FORD_RUN_TIME: 471
-  response: 7E80562F41F01D7
+    FORD_RUN_TIME: 1287
+  response: 7E80562F41F0507

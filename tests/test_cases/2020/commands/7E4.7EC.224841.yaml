@@ -1,23 +1,11 @@
 command_id: 7E4.7EC.224841
 test_cases:
 - expected_values:
-    FORD_HVBAT_AVG_MOD_V: 3.797
-  response: 7EC056248410ED5
+    FORD_HVBAT_AVG_MOD_V: 3.738
+  response: 7EC056248410E9A
 - expected_values:
-    FORD_HVBAT_AVG_MOD_V: 3.807
-  response: 7EC056248410EDF
+    FORD_HVBAT_AVG_MOD_V: 3.814
+  response: 7EC056248410EE6
 - expected_values:
     FORD_HVBAT_AVG_MOD_V: 3.846
   response: 7EC056248410F06
-- expected_values:
-    FORD_HVBAT_AVG_MOD_V: 3.848
-  response: 7EC056248410F08
-- expected_values:
-    FORD_HVBAT_AVG_MOD_V: 3.85
-  response: 7EC056248410F0A
-- expected_values:
-    FORD_HVBAT_AVG_MOD_V: 3.853
-  response: 7EC056248410F0D
-- expected_values:
-    FORD_HVBAT_AVG_MOD_V: 3.858
-  response: 7EC056248410F12
