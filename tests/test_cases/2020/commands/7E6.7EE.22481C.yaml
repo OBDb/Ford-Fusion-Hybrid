@@ -18,3 +18,6 @@ test_cases:
 - expected_values:
     FORD_PRI_MOTOR_TQ: -5.7
   response: 7EE0562481CFFC7
+- expected_values:
+    FORD_PRI_MOTOR_TQ: -0.1
+  response: 7EE0562481CFFFF
