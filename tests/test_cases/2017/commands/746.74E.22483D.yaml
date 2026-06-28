@@ -8,4 +8,4 @@ test_cases:
   response: 74E0562483D00FF
 - expected_values:
     FORD_DCDC_ENABLED: 1
-  response: 74E0562483D0190
+  response: 74E0562483D018F
