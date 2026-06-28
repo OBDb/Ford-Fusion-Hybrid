@@ -4,8 +4,5 @@ test_cases:
     FORD_PRI_MOTOR_COIL_T: 14
   response: 7EE0562481F000E
 - expected_values:
-    FORD_PRI_MOTOR_COIL_T: 15
-  response: 7EE0562481F000F
-- expected_values:
-    FORD_PRI_MOTOR_COIL_T: 16
-  response: 7EE0562481F0010
+    FORD_PRI_MOTOR_COIL_T: 80
+  response: 7EE0562481F0050

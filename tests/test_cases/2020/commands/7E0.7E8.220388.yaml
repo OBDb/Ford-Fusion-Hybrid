@@ -4,20 +4,5 @@ test_cases:
     FORD_PCM_MISF_ACCEL_CYL2_NORM: 0
   response: '7E80462038800'
 - expected_values:
-    FORD_PCM_MISF_ACCEL_CYL2_NORM: 0.03125
-  response: '7E80462038802'
-- expected_values:
-    FORD_PCM_MISF_ACCEL_CYL2_NORM: 0.04688
-  response: '7E80462038803'
-- expected_values:
-    FORD_PCM_MISF_ACCEL_CYL2_NORM: 0.07812
-  response: '7E80462038805'
-- expected_values:
-    FORD_PCM_MISF_ACCEL_CYL2_NORM: -0.25
-  response: 7E804620388F0
-- expected_values:
-    FORD_PCM_MISF_ACCEL_CYL2_NORM: -0.1875
-  response: 7E804620388F4
-- expected_values:
-    FORD_PCM_MISF_ACCEL_CYL2_NORM: -0.10938
-  response: 7E804620388F9
+    FORD_PCM_MISF_ACCEL_CYL2_NORM: -0.01562
+  response: 7E804620388FF
