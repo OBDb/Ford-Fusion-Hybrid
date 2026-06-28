@@ -7,5 +7,8 @@ test_cases:
     FORD_TT: 16
   response: 7EE05621E1C0100
 - expected_values:
-    FORD_TT: 16.1875
-  response: 7EE05621E1C0103
+    FORD_TT: 63.875
+  response: 7EE05621E1C03FE
+- expected_values:
+    FORD_TT: 64.0625
+  response: 7EE05621E1C0401
