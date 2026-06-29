@@ -2,7 +2,7 @@ command_id: 7E4.7EC.224806
 test_cases:
 - expected_values:
     FORD_CONTACTOR_V_NEG: 300
-  response: 7EC05624806366A
+  response: 7EC056248063524
 - expected_values:
     FORD_CONTACTOR_V_NEG: 300
   response: 7EC056248063700

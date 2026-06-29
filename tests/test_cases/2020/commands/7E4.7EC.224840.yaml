@@ -1,11 +1,11 @@
 command_id: 7E4.7EC.224840
 test_cases:
 - expected_values:
-    FORD_HVBAT_MIN_MOD_V: 3.641
-  response: 7EC056248400E39
+    FORD_HVBAT_MIN_MOD_V: 3.51
+  response: 7EC056248400DB6
 - expected_values:
-    FORD_HVBAT_MIN_MOD_V: 3.839
-  response: 7EC056248400EFF
+    FORD_HVBAT_MIN_MOD_V: 3.583
+  response: 7EC056248400DFF
 - expected_values:
     FORD_HVBAT_MIN_MOD_V: 3.84
   response: 7EC056248400F00
