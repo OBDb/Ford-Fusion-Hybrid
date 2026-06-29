@@ -1,8 +1,8 @@
 command_id: 746.74E.224836
 test_cases:
 - expected_values:
-    FORD_DCDC_LV_A: 29
-  response: 74E046248361D
+    FORD_DCDC_LV_A: 28
+  response: 74E046248361C
 - expected_values:
     FORD_DCDC_LV_A: 74
   response: 74E046248364A
