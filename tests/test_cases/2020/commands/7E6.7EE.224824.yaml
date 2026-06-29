@@ -4,5 +4,5 @@ test_cases:
     FORD_PRI_MOTOR_INV_T: 20
   response: 7EE056248240014
 - expected_values:
-    FORD_PRI_MOTOR_INV_T: 56
-  response: 7EE056248240038
+    FORD_PRI_MOTOR_INV_T: 66
+  response: 7EE056248240042
