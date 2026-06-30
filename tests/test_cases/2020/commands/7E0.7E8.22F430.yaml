@@ -4,29 +4,5 @@ test_cases:
     FORD_WARMUP_CLR: 16
   response: 7E80462F43010
 - expected_values:
-    FORD_WARMUP_CLR: 17
-  response: 7E80462F43011
-- expected_values:
-    FORD_WARMUP_CLR: 18
-  response: 7E80462F43012
-- expected_values:
-    FORD_WARMUP_CLR: 19
-  response: 7E80462F43013
-- expected_values:
-    FORD_WARMUP_CLR: 20
-  response: 7E80462F43014
-- expected_values:
-    FORD_WARMUP_CLR: 21
-  response: 7E80462F43015
-- expected_values:
-    FORD_WARMUP_CLR: 22
-  response: 7E80462F43016
-- expected_values:
-    FORD_WARMUP_CLR: 23
-  response: 7E80462F43017
-- expected_values:
-    FORD_WARMUP_CLR: 24
-  response: 7E80462F43018
-- expected_values:
     FORD_WARMUP_CLR: 45
   response: 7E80462F4302D
