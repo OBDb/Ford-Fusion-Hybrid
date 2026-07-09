@@ -1,0 +1,11 @@
+command_id: 7E4.7EC.22480D|fc=1
+test_cases:
+- expected_values:
+    FORD_HVBAT_V: 256.34
+  response: 7EC0562480D6422
+- expected_values:
+    FORD_HVBAT_V: 273.9
+  response: 7EC0562480D6AFE
+- expected_values:
+    FORD_HVBAT_V: 302.08
+  response: 7EC0562480D7600
