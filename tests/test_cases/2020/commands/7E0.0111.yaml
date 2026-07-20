@@ -22,5 +22,8 @@ test_cases:
     TP: 22.7451
   response: 7E80341113A
 - expected_values:
+    TP: 23.52941
+  response: 7E80341113C
+- expected_values:
     TP: 23.92157
   response: 7E80341113D
