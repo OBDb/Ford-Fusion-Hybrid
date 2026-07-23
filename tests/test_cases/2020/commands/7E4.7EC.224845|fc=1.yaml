@@ -4,5 +4,5 @@ test_cases:
     FORD_HVBAT_SOC_DISP: 13.5
   response: 7EC046248451B
 - expected_values:
-    FORD_HVBAT_SOC_DISP: 99.5
-  response: 7EC04624845C7
+    FORD_HVBAT_SOC_DISP: 100
+  response: 7EC04624845C8
