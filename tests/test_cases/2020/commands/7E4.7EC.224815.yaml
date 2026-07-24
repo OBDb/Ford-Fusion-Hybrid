@@ -10,6 +10,12 @@ test_cases:
     FORD_MAX_DISCH_PWR_LIM: 18.25
   response: 7EC0462481549
 - expected_values:
+    FORD_MAX_DISCH_PWR_LIM: 26.25
+  response: 7EC0462481569
+- expected_values:
+    FORD_MAX_DISCH_PWR_LIM: 29
+  response: 7EC0462481574
+- expected_values:
     FORD_MAX_DISCH_PWR_LIM: 29.75
   response: 7EC0462481577
 - expected_values:
