@@ -197,6 +197,7 @@ supported_commands_by_ecu:
   - 0149:APP_D
   - 7E6.7EE.0105
   - 7E6.7EE.010D
+  - 7E6.7EE.011C
   - 7E6.7EE.0131
   - 7E6.7EE.0142
   - 7E6.7EE.221E12:FORD_GEAR_CMD
