@@ -15,8 +15,8 @@ test_cases:
     7E60319028F
     7EE035902FF
 - expected_values:
-    FORD_AC_COMP_A: 7.00095
-  response: 7CF056299AB08F6
+    FORD_AC_COMP_A: 7.80053
+  response: 7CF056299AB09FC
 - expected_values:
-    FORD_AC_COMP_A: 8.99991
-  response: 7CF056299AB0B85
+    FORD_AC_COMP_A: 10.40071
+  response: 7CF056299AB0D50
