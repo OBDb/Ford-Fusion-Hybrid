@@ -21,6 +21,6 @@ test_cases:
     FORD_BATT_AGE: 1825
   response: 72E056240270D2C
 - expected_values:
-    FORD_12V_AGE: 85128
+    FORD_12V_AGE: 85152
     FORD_BATT_AGE: 1825
-  response: 72E056240270DDB
+  response: 72E056240270DDC
