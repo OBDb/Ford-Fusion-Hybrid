@@ -8,7 +8,7 @@ test_cases:
   response: 7E8056203E8E501
 - expected_values:
     FORD_OAR: 1
-  response: 7E8056203E8EBFC
+  response: 7E8056203E8F9FF
 - expected_values:
     FORD_OAR: 1
   response: 7E8056203E8FF2C
