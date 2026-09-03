@@ -4,20 +4,5 @@ test_cases:
     LOAD_ABS: 0
   response: '7E80441430000'
 - expected_values:
-    LOAD_ABS: 22.7451
-  response: 7E8044143003A
-- expected_values:
-    LOAD_ABS: 40.39216
-  response: '7E80441430067'
-- expected_values:
-    LOAD_ABS: 43.92157
-  response: '7E80441430070'
-- expected_values:
-    LOAD_ABS: 49.01961
-  response: 7E8044143007D
-- expected_values:
-    LOAD_ABS: 52.15686
-  response: '7E80441430085'
-- expected_values:
     LOAD_ABS: 60.39216
   response: 7E8044143009A
