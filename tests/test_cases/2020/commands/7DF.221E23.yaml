@@ -31,6 +31,11 @@ test_cases:
     7EE04621E2332
     7E804621E2332
 - expected_values:
+    FORD_GEAR_SHFT_V2: 50
+  response: |-
+    7EE04621E2332
+    7E804621E233C
+- expected_values:
     FORD_GEAR_SHFT_V2: 60
   response: |-
     7EE04621E233C
