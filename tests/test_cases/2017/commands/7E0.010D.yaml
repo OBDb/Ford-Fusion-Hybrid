@@ -9,5 +9,5 @@ test_cases:
     7E803410D1A
     7E8035902FF
 - expected_values:
-    VSS: 135
-  response: 7E803410D87
+    VSS: 147
+  response: 7E803410D93
