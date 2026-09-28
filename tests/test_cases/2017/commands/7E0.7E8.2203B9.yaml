@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2203B9
+test_cases:
+- expected_values:
+    FORD_FAN_SPD_DES: 8.39551
+  response: 7E8056203B90ABF
+- expected_values:
+    FORD_FAN_SPD_DES: 32.78859
+  response: 7E8056203B929F8
+- expected_values:
+    FORD_FAN_SPD_DES: 42.21866
+  response: 7E8056203B9360A
+- expected_values:
+    FORD_FAN_SPD_DES: 44.76081
+  response: 7E8056203B9394B
