@@ -13,11 +13,11 @@ test_cases:
     FORD_T_RANGE: 0
   response: 7EC0762480842413242
 - expected_values:
-    FORD_HVBAT_T_AVG: 24
-    FORD_HVBAT_T_MAX: 25
-    FORD_HVBAT_T_MIN: 22
-    FORD_T_RANGE: 3
-  response: 7EC076248084B48354A
+    FORD_HVBAT_T_AVG: 27
+    FORD_HVBAT_T_MAX: 28
+    FORD_HVBAT_T_MIN: 24
+    FORD_T_RANGE: 4
+  response: 7EC076248084E4A364D
 - expected_values:
     FORD_HVBAT_T_AVG: 47
     FORD_HVBAT_T_MAX: 48
