@@ -14,4 +14,7 @@ test_cases:
   response: 7E80762F434811F8000
 - expected_values:
     FORD_AIR_FUEL_RAT: 29.2801
+  response: 7E80762F434FFFF81CF
+- expected_values:
+    FORD_AIR_FUEL_RAT: 29.2801
   response: 7E80762F434FFFF8216
