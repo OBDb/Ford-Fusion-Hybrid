@@ -1,14 +1,14 @@
 command_id: 7E4.7EC.224805
 test_cases:
 - expected_values:
-    FORD_CONTACTOR_V_POS: 300
+    FUSIONH_CONTACTOR_V_POS: 267.58
   response: 7EC056248053443
 - expected_values:
-    FORD_CONTACTOR_V_POS: 300
+    FUSIONH_CONTACTOR_V_POS: 276.42
   response: 7EC0562480535FD
 - expected_values:
-    FORD_CONTACTOR_V_POS: 300
+    FUSIONH_CONTACTOR_V_POS: 281.6
   response: 7EC056248053700
 - expected_values:
-    FORD_CONTACTOR_V_POS: 300
+    FUSIONH_CONTACTOR_V_POS: 294.8
   response: 7EC056248053994

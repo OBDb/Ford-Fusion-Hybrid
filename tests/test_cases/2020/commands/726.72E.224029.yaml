@@ -1,8 +1,8 @@
 command_id: 726.72E.224029
 test_cases:
 - expected_values:
-    FORD_BATT_TEMP: 9
+    FUSIONH_12V_T: 9
   response: '72E0462402931'
 - expected_values:
-    FORD_BATT_TEMP: 39
+    FUSIONH_12V_T: 39
   response: 72E046240294F

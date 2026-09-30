@@ -1,28 +1,22 @@
-command_id: 7E0.7E8.22DD01|fc=1
+command_id: 7E0.7E8.22DD01
 test_cases:
 - expected_values:
-    FORD_ODO: 121622
-    FORD_ODO_7E0: 121622
+    FUSIONH_ODO_7E0: 121622
   response: 7E80662DD0101DB16
 - expected_values:
-    FORD_ODO: 121855
-    FORD_ODO_7E0: 121855
+    FUSIONH_ODO_7E0: 121855
   response: 7E80662DD0101DBFF
 - expected_values:
-    FORD_ODO: 121856
-    FORD_ODO_7E0: 121856
+    FUSIONH_ODO_7E0: 121856
   response: 7E80662DD0101DC00
 - expected_values:
-    FORD_ODO: 129792
-    FORD_ODO_7E0: 129792
+    FUSIONH_ODO_7E0: 129792
   response: 7E80662DD0101FB00
 - expected_values:
-    FORD_ODO: 196940
-    FORD_ODO_7E0: 196940
+    FUSIONH_ODO_7E0: 196940
   response: 7E80662DD0103014C
 - expected_values:
-    FORD_ODO: 129933
-    FORD_ODO_7E0: 129933
+    FUSIONH_ODO_7E0: 129933
   response: |-
     7EC0662DD0101FB8D
     7E80662DD0101FB8D
