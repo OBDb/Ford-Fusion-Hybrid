@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22DD01
+test_cases:
+- expected_values:
+    FUSIONH_ODO_7E0: 138538
+  response: 7E80662DD01021D2A
+- expected_values:
+    FUSIONH_ODO_7E0: 181160
+  response: 7E80662DD0102C3A8
+- expected_values:
+    FUSIONH_ODO_7E0: 181238
+  response: 7E80662DD0102C3F6

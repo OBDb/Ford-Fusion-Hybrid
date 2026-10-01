@@ -1,20 +1,20 @@
 command_id: 7E0.7E8.220304
 test_cases:
 - expected_values:
-    FORD_CMD_GEN_V: 14.43699
+    FUSIONH_CMD_GEN_V: 14.43699
   response: '7E8056203047390'
 - expected_values:
-    FORD_CMD_GEN_V: 14.46042
+    FUSIONH_CMD_GEN_V: 14.46042
   response: 7E80562030473C0
 - expected_values:
-    FORD_CMD_GEN_V: 14.48384
+    FUSIONH_CMD_GEN_V: 14.48384
   response: 7E80562030473F0
 - expected_values:
-    FORD_CMD_GEN_V: 14.50775
+    FUSIONH_CMD_GEN_V: 14.50775
   response: '7E8056203047421'
 - expected_values:
-    FORD_CMD_GEN_V: 14.53118
+    FUSIONH_CMD_GEN_V: 14.53118
   response: '7E8056203047451'
 - expected_values:
-    FORD_CMD_GEN_V: 14.57802
+    FUSIONH_CMD_GEN_V: 14.57802
   response: 7E80562030474B1

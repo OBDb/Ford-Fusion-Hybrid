@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22F431
 test_cases:
 - expected_values:
-    FORD_DIST_DTC_CLR: 51
+    FUSIONH_DIST_DTC_CLR: 51
   response: 7E80562F4310033
 - expected_values:
-    FORD_DIST_DTC_CLR: 4095
+    FUSIONH_DIST_DTC_CLR: 4095
   response: 7E80562F4310FFF
 - expected_values:
-    FORD_DIST_DTC_CLR: 4096
+    FUSIONH_DIST_DTC_CLR: 4096
   response: 7E80562F4311000
 - expected_values:
-    FORD_DIST_DTC_CLR: 65535
+    FUSIONH_DIST_DTC_CLR: 65535
   response: 7E80562F431FFFF

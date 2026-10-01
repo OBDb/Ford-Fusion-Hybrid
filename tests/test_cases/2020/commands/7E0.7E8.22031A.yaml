@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22031A
 test_cases:
 - expected_values:
-    FORD_VCT_INT_ERR: 0
+    FUSIONH_VCT_INT_ERR: 0
   response: 7E80562031A0000
 - expected_values:
-    FORD_VCT_INT_ERR: 50
+    FUSIONH_VCT_INT_ERR: -10.125
   response: 7E80562031AFF5E
 - expected_values:
-    FORD_VCT_INT_ERR: 50
+    FUSIONH_VCT_INT_ERR: -0.0625
   response: 7E80562031AFFFF
