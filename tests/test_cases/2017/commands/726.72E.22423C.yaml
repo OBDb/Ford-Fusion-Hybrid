@@ -1,8 +1,8 @@
 command_id: 726.72E.22423C
 test_cases:
 - expected_values:
-    FUSIONH_VEH_BAT_B_CURRENT: 2.0625
-  response: 72E0562423C0042
+    FUSIONH_VEH_BAT_B_CURRENT: 1.75
+  response: 72E0562423C0038
 - expected_values:
     FUSIONH_VEH_BAT_B_CURRENT: 7.9375
   response: 72E0562423C00FE
@@ -10,5 +10,5 @@ test_cases:
     FUSIONH_VEH_BAT_B_CURRENT: 8.0625
   response: 72E0562423C0102
 - expected_values:
-    FUSIONH_VEH_BAT_B_CURRENT: -13.0625
-  response: 72E0562423CFE5E
+    FUSIONH_VEH_BAT_B_CURRENT: -7.9375
+  response: 72E0562423CFF02
