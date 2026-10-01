@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     FUSIONH_VSS_HD: 0
   response: '7E8056215050000'
+- expected_values:
+    FUSIONH_VSS_HD: 11.48438
+  response: 7E80562150505BE
