@@ -554,7 +554,7 @@
   "signals": [
     {"id": "FUSIONH_AC_P_SENS_V", "path": "Climate", "fmt": { "len": 16, "max": 5, "div": 1024, "sign": true, "unit": "volts" }, "name": "A/C compressor pressure sensor voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "D137"}, "freq": 3600, "dbgfilter": { "to": 2016, "from": 2018 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "D137"}, "freq": 3600, "dbgfilter": { "to": 2016, "years": [2018], "from": 2020 },
   "signals": [
     {"id": "FUSIONH_DTC_CNT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "DTC counter"}
   ]},
