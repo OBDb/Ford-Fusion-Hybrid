@@ -1,0 +1,8 @@
+command_id: 7E6.7EE.224820
+test_cases:
+- expected_values:
+    FUSIONH_GEN_COIL_T_7E6: 48.6
+  response: 7EE05624820001B
+- expected_values:
+    FUSIONH_GEN_COIL_T_7E6: 99
+  response: 7EE056248200037

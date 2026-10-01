@@ -1,0 +1,29 @@
+command_id: 7E4.7EC.22DD04
+test_cases:
+- expected_values:
+    FUSIONH_T_INSIDE_CAR: 78.8
+  response: 7EC0462DD0442
+- expected_values:
+    FUSIONH_T_INSIDE_CAR: 80.6
+  response: 7EC0462DD0443
+- expected_values:
+    FUSIONH_T_INSIDE_CAR: 82.4
+  response: 7EC0462DD0444
+- expected_values:
+    FUSIONH_T_INSIDE_CAR: 84.2
+  response: 7EC0462DD0445
+- expected_values:
+    FUSIONH_T_INSIDE_CAR: 86
+  response: 7EC0462DD0446
+- expected_values:
+    FUSIONH_T_INSIDE_CAR: 87.8
+  response: 7EC0462DD0447
+- expected_values:
+    FUSIONH_T_INSIDE_CAR: 91.4
+  response: 7EC0462DD0449
+- expected_values:
+    FUSIONH_T_INSIDE_CAR: 95
+  response: 7EC0462DD044B
+- expected_values:
+    FUSIONH_T_INSIDE_CAR: 96.8
+  response: 7EC0462DD044C
