@@ -14,3 +14,6 @@ test_cases:
 - expected_values:
     FUSIONH_TP_RRO: 38.4
   response: '72E056228150300'
+- expected_values:
+    FUSIONH_TP_RRO: null
+  response: 72E056228150BB8
