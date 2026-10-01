@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F42C
+test_cases:
+- expected_values:
+    FUSIONH_EGR: 0
+  response: 7E80462F42C00
+- expected_values:
+    FUSIONH_EGR: 44
+  response: 7E80462F42C2C
+- expected_values:
+    FUSIONH_EGR: 49
+  response: 7E80462F42C31

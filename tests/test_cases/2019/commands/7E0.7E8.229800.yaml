@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.229800
+test_cases:
+- expected_values:
+    FUSIONH_AC_P_SENS_V: 1.90039
+  response: 7E805629800079A
+- expected_values:
+    FUSIONH_AC_P_SENS_V: 1.90527
+  response: 7E805629800079F
+- expected_values:
+    FUSIONH_AC_P_SENS_V: 1.91992
+  response: 7E80562980007AE
+- expected_values:
+    FUSIONH_AC_P_SENS_V: 1.93457
+  response: 7E80562980007BD
+- expected_values:
+    FUSIONH_AC_P_SENS_V: 1.94434
+  response: 7E80562980007C7

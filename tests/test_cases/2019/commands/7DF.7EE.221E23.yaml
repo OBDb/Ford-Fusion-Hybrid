@@ -6,6 +6,11 @@ test_cases:
     7E804621E2328
     7EE04621E232B
 - expected_values:
+    FUSIONH_GEAR_SHFT_V2: 70
+  response: |-
+    7E804621E2346
+    7EE04621E2346
+- expected_values:
     FUSIONH_GEAR_SHFT_V2: 43
   response: 7EE04621E232B
 - expected_values:

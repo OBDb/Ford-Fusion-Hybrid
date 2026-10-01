@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22038B
+test_cases:
+- expected_values:
+    FUSIONH_PCM_MISF_ACCEL_CYL4_NORM: 0.09375
+  response: 7E80462038B06
+- expected_values:
+    FUSIONH_PCM_MISF_ACCEL_CYL4_NORM: 0.51562
+  response: 7E80462038B21
+- expected_values:
+    FUSIONH_PCM_MISF_ACCEL_CYL4_NORM: -0.04688
+  response: 7E80462038BFD

@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     FUSIONH_HVBAT_AGE: 54403.2
   response: 7EC056248103B08
+- expected_values:
+    FUSIONH_HVBAT_AGE: 66492
+  response: 7EC056248104826
