@@ -1,0 +1,11 @@
+command_id: 7C7.2299AB
+test_cases:
+- expected_values:
+    FUSIONH_AC_COMP_A: 5.60015
+  response: 7CF056299AB072B
+- expected_values:
+    FUSIONH_AC_COMP_A: 5.79852
+  response: 7CF056299AB076C
+- expected_values:
+    FUSIONH_AC_COMP_A: 5.99994
+  response: 7CF056299AB07AE
