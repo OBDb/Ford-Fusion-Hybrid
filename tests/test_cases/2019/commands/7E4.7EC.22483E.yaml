@@ -1,0 +1,5 @@
+command_id: 7E4.7EC.22483E
+test_cases:
+- expected_values:
+    FUSIONH_BATT_SOC: 1.076
+  response: 7EC0562483E0434
