@@ -1,14 +1,14 @@
 command_id: 7E4.7EC.224806
 test_cases:
 - expected_values:
-    FORD_CONTACTOR_V_NEG: 1.6
+    FUSIONH_CONTACTOR_V_NEG: 0.32
   response: 7EC056248060010
 - expected_values:
-    FORD_CONTACTOR_V_NEG: 300
+    FUSIONH_CONTACTOR_V_NEG: 266.24
   response: 7EC056248063400
 - expected_values:
-    FORD_CONTACTOR_V_NEG: 300
+    FUSIONH_CONTACTOR_V_NEG: 317.52
   response: 7EC056248063E04
 - expected_values:
-    FORD_CONTACTOR_V_NEG: 300
+    FUSIONH_CONTACTOR_V_NEG: 322.54
   response: 7EC056248063EFF

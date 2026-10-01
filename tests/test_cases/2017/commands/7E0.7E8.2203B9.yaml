@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2203B9
 test_cases:
 - expected_values:
-    FORD_FAN_SPD_DES: 7.99878
+    FUSIONH_FAN_SPD_DES: 7.99878
   response: 7E8056203B90A3D
 - expected_values:
-    FORD_FAN_SPD_DES: 50.78508
+    FUSIONH_FAN_SPD_DES: 50.78508
   response: 7E8056203B94101
 - expected_values:
-    FORD_FAN_SPD_DES: 59.37285
+    FUSIONH_FAN_SPD_DES: 59.37285
   response: 7E8056203B94BFF
 - expected_values:
-    FORD_FAN_SPD_DES: 70.41428
+    FUSIONH_FAN_SPD_DES: 70.41428
   response: 7E8056203B95A21

@@ -1,10 +1,10 @@
 command_id: 7C7.2299AB
 test_cases:
 - expected_values:
-    FORD_AC_COMP_A: 0
+    FUSIONH_AC_COMP_A: 0
   response: 7CF056299AB0000
 - expected_values:
-    FORD_AC_COMP_A: 0
+    FUSIONH_AC_COMP_A: 0
   response: |-
     7CF056299AB0000
     7D50319028F
@@ -15,8 +15,8 @@ test_cases:
     7E60319028F
     7EE035902FF
 - expected_values:
-    FORD_AC_COMP_A: 7.80053
+    FUSIONH_AC_COMP_A: 7.80053
   response: 7CF056299AB09FC
 - expected_values:
-    FORD_AC_COMP_A: 10.99887
+    FUSIONH_AC_COMP_A: 10.99887
   response: 7CF056299AB0E14
