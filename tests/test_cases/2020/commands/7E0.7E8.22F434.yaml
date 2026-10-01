@@ -1,20 +1,20 @@
 command_id: 7E0.7E8.22F434
 test_cases:
 - expected_values:
-    FUSIONH_AIR_FUEL_RAT: 0
+    FORD_AIR_FUEL_RAT: 0
   response: 7E80762F43400008000
 - expected_values:
-    FUSIONH_AIR_FUEL_RAT: 11.95423
+    FORD_AIR_FUEL_RAT: 11.95423
   response: 7E80762F43468847F15
 - expected_values:
-    FUSIONH_AIR_FUEL_RAT: 14.61351
-  response: 7E80762F4347FC47FFF
+    FORD_AIR_FUEL_RAT: 14.60189
+  response: 7E80762F4347FAA7FFF
 - expected_values:
-    FUSIONH_AIR_FUEL_RAT: 14.75425
+    FORD_AIR_FUEL_RAT: 14.64836
+  response: 7E80762F43480128260
+- expected_values:
+    FORD_AIR_FUEL_RAT: 14.75425
   response: 7E80762F43480FF8000
 - expected_values:
-    FUSIONH_AIR_FUEL_RAT: 29.2801
+    FORD_AIR_FUEL_RAT: 29.2801
   response: 7E80762F434FFFF80F3
-- expected_values:
-    FUSIONH_AIR_FUEL_RAT: 29.2801
-  response: 7E80762F434FFFF8201

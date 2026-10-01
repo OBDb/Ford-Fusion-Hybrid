@@ -1,32 +1,8 @@
 command_id: 726.72E.2241E8
 test_cases:
 - expected_values:
-    FUSIONH_VEH_BAT_B_V: 12.3
-  response: 72E046241E87E
+    FORD_VEH_BAT_B_V: 6
+  response: 72E046241E87C
 - expected_values:
-    FUSIONH_VEH_BAT_B_V: 12.4
-  response: 72E046241E880
-- expected_values:
-    FUSIONH_VEH_BAT_B_V: 12.5
-  response: 72E046241E882
-- expected_values:
-    FUSIONH_VEH_BAT_B_V: 12.6
-  response: 72E046241E884
-- expected_values:
-    FUSIONH_VEH_BAT_B_V: 14.1
-  response: 72E046241E8A2
-- expected_values:
-    FUSIONH_VEH_BAT_B_V: 14.2
-  response: 72E046241E8A4
-- expected_values:
-    FUSIONH_VEH_BAT_B_V: 14.3
-  response: 72E046241E8A6
-- expected_values:
-    FUSIONH_VEH_BAT_B_V: 14.4
-  response: 72E046241E8A8
-- expected_values:
-    FUSIONH_VEH_BAT_B_V: 14.5
-  response: 72E046241E8AA
-- expected_values:
-    FUSIONH_VEH_BAT_B_V: 14.6
+    FORD_VEH_BAT_B_V: 6
   response: 72E046241E8AC
