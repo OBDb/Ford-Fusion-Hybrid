@@ -1,0 +1,20 @@
+command_id: 7E4.7EC.220702
+test_cases:
+- expected_values:
+    FUSIONH_FAN_SPD_INDICATED: 0
+  response: 7EC0462070200
+- expected_values:
+    FUSIONH_FAN_SPD_INDICATED: 1050
+  response: 7EC046207022A
+- expected_values:
+    FUSIONH_FAN_SPD_INDICATED: 1075
+  response: 7EC046207022B
+- expected_values:
+    FUSIONH_FAN_SPD_INDICATED: 1450
+  response: 7EC046207023A
+- expected_values:
+    FUSIONH_FAN_SPD_INDICATED: 1550
+  response: 7EC046207023E
+- expected_values:
+    FUSIONH_FAN_SPD_INDICATED: 1575
+  response: 7EC046207023F

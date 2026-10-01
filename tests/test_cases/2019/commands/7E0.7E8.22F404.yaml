@@ -4,8 +4,5 @@ test_cases:
     FUSIONH_ENG_LOAD_PCT: 0
   response: 7E80462F40400
 - expected_values:
-    FUSIONH_ENG_LOAD_PCT: 54.90196
-  response: 7E80462F4048C
-- expected_values:
-    FUSIONH_ENG_LOAD_PCT: 56.07843
-  response: 7E80462F4048F
+    FUSIONH_ENG_LOAD_PCT: 94.90196
+  response: 7E80462F404F2

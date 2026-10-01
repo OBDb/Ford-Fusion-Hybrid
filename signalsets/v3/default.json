@@ -650,11 +650,11 @@
   "signals": [
     {"id": "FUSIONH_HVBAT_IAT", "path": "Battery", "fmt": { "len": 8, "max": 419, "min": -39.8, "mul": 9, "div": 5, "add": -39.8, "unit": "fahrenheit" }, "name": "High voltage battery intake air temperature"}
   ]},
-{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "0701"}, "freq": 0.25, "dbgfilter": { "to": 2016, "from": 2018 },
+{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "0701"}, "freq": 0.25, "dbgfilter": { "to": 2016, "years": [2018], "from": 2020 },
   "signals": [
     {"id": "FUSIONH_FAN_SPD_DEMANDED", "path": "Movement", "fmt": { "len": 8, "max": 6375, "mul": 25, "unit": "rpm" }, "name": "Fan speed demanded"}
   ]},
-{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "0702"}, "freq": 0.25, "dbgfilter": { "to": 2016, "from": 2018 },
+{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "0702"}, "freq": 0.25, "dbgfilter": { "to": 2016, "years": [2018], "from": 2020 },
   "signals": [
     {"id": "FUSIONH_FAN_SPD_INDICATED", "path": "Movement", "fmt": { "len": 8, "max": 6375, "mul": 25, "unit": "rpm" }, "name": "Fan speed indicated"}
   ]},
@@ -707,7 +707,7 @@
   "signals": [
     {"id": "FUSIONH_MOTOR_ELECTRONICS", "path": "Engine", "fmt": { "len": 8, "max": 491, "mul": 9, "div": 5, "add": 32, "unit": "fahrenheit" }, "name": "Motor electronics coolant temperature"}
   ]},
-{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "483E"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
+{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "483E"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018], "from": 2020 },
   "signals": [
     {"id": "FUSIONH_BATT_SOC", "path": "Battery", "fmt": { "len": 16, "max": 65.53, "div": 1000, "unit": "percent" }, "name": "State of charge spread across battery modules"}
   ]},
@@ -770,7 +770,7 @@
   "signals": [
     {"id": "FUSIONH_BECM_ODO", "path": "Trips", "fmt": { "len": 16, "max": 536, "mul": 128, "div": 15625, "unit": "scalar" }, "name": "Odometer"}
   ]},
-{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "DD04"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
+{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "DD04"}, "freq": 5, "dbgfilter": { "to": 2016, "years": [2018], "from": 2020 },
   "signals": [
     {"id": "FUSIONH_T_INSIDE_CAR", "path": "Engine", "fmt": { "len": 8, "max": 419, "min": -40, "mul": 9, "div": 5, "add": -40, "unit": "fahrenheit" }, "name": "Temperature inside car"}
   ]},
@@ -807,7 +807,7 @@
   "signals": [
     {"id": "FUSIONH_MOTOR_COIL_T", "path": "Engine", "fmt": { "len": 16, "max": 59012, "min": -58950, "mul": 9, "div": 5, "add": 32, "sign": true, "unit": "fahrenheit" }, "name": "Motor coil temperature"}
   ]},
-{ "hdr": "7E6", "rax": "7EE", "cmd": {"22": "4820"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
+{ "hdr": "7E6", "rax": "7EE", "cmd": {"22": "4820"}, "freq": 5, "dbgfilter": { "to": 2016, "years": [2018], "from": 2020 },
   "signals": [
     {"id": "FUSIONH_GEN_COIL_T_7E6", "path": "Engine", "fmt": { "len": 16, "max": 58980, "min": -58982, "mul": 9, "div": 5, "sign": true, "unit": "celsius" }, "name": "Generator coil temperature"}
   ]},
@@ -815,7 +815,7 @@
   "signals": [
     {"id": "FUSIONH_PRI_MOTOR_INV_T", "path": "Drivetrain", "fmt": { "len": 16, "max": 300, "min": -40, "sign": true, "unit": "celsius" }, "name": "Primary motor inverter temperature"}
   ]},
-{ "hdr": "7E6", "rax": "7EE", "cmd": {"22": "DD05"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
+{ "hdr": "7E6", "rax": "7EE", "cmd": {"22": "DD05"}, "freq": 5, "dbgfilter": { "to": 2016, "years": [2018], "from": 2020 },
   "signals": [
     {"id": "FUSIONH_OUTSIDE_T", "path": "Engine", "fmt": { "len": 8, "max": 421, "min": -38, "mul": 9, "div": 5, "add": -38, "unit": "fahrenheit" }, "name": "Outside temperature"}
   ]}
