@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.220304
 test_cases:
 - expected_values:
+    FUSIONH_CMD_GEN_V: 14.34281
+  response: 7E80562030472CF
+- expected_values:
+    FUSIONH_CMD_GEN_V: 14.36623
+  response: 7E80562030472FF
+- expected_values:
     FUSIONH_CMD_GEN_V: 14.43699
   response: '7E8056203047390'
 - expected_values:
