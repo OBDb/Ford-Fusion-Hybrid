@@ -13,6 +13,9 @@ test_cases:
     FUSIONH_BARO: 14.21211
   response: '7E8056203530188'
 - expected_values:
+    FUSIONH_BARO: 14.24836
+  response: '7E8056203530189'
+- expected_values:
     FUSIONH_BARO: 14.35713
   response: 7E805620353018C
 - expected_values:

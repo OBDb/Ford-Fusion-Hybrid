@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22F41F
+test_cases:
+- expected_values:
+    FUSIONH_RUN_TIME: 601
+  response: 7E80562F41F0259
+- expected_values:
+    FUSIONH_RUN_TIME: 645
+  response: 7E80562F41F0285
+- expected_values:
+    FUSIONH_RUN_TIME: 688
+  response: 7E80562F41F02B0
+- expected_values:
+    FUSIONH_RUN_TIME: 760
+  response: 7E80562F41F02F8
+- expected_values:
+    FUSIONH_RUN_TIME: 807
+  response: 7E80562F41F0327
+- expected_values:
+    FUSIONH_RUN_TIME: 841
+  response: 7E80562F41F0349
+- expected_values:
+    FUSIONH_RUN_TIME: 871
+  response: 7E80562F41F0367

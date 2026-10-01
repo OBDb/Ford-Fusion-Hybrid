@@ -1,0 +1,8 @@
+command_id: 7E4.7EC.22480B
+test_cases:
+- expected_values:
+    FUSIONH_HIGH_V_BAT_CURRENT: 3.58
+  response: 7EC0562480B00B3
+- expected_values:
+    FUSIONH_HIGH_V_BAT_CURRENT: 3.7
+  response: 7EC0562480B00B9

@@ -1,0 +1,8 @@
+command_id: 7E4.7EC.224841
+test_cases:
+- expected_values:
+    FUSIONH_AVG_BAT_MODULE_V: 3.663
+  response: 7EC056248410E4F
+- expected_values:
+    FUSIONH_AVG_BAT_MODULE_V: 3.693
+  response: 7EC056248410E6D

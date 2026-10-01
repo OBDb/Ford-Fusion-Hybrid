@@ -1,0 +1,8 @@
+command_id: 7E4.7EC.224806
+test_cases:
+- expected_values:
+    FUSIONH_CONTACTOR_V_NEG: 281.28
+  response: 7EC0562480636F0
+- expected_values:
+    FUSIONH_CONTACTOR_V_NEG: 283.62
+  response: 7EC056248063765
