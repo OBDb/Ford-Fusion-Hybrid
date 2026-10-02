@@ -4,8 +4,8 @@ test_cases:
     FUSIONH_HVBAT_V: 265.79
   response: 7EC0562480D67D3
 - expected_values:
-    FUSIONH_HVBAT_V: 279.02
-  response: 7EC0562480D6CFE
+    FUSIONH_HVBAT_V: 273.9
+  response: 7EC0562480D6AFE
 - expected_values:
     FUSIONH_HVBAT_V: 291.85
   response: 7EC0562480D7201
