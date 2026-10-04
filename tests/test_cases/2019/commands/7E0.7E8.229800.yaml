@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.229800
 test_cases:
 - expected_values:
+    FUSIONH_AC_P_SENS_V: 1.5
+  response: '7E8056298000600'
+- expected_values:
     FUSIONH_AC_P_SENS_V: 1.90039
   response: 7E805629800079A
 - expected_values:

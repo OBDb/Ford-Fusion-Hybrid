@@ -13,6 +13,9 @@ test_cases:
     FUSIONH_FAN_SPD_INDICATED: 1450
   response: 7EC046207023A
 - expected_values:
+    FUSIONH_FAN_SPD_INDICATED: 1500
+  response: 7EC046207023C
+- expected_values:
     FUSIONH_FAN_SPD_INDICATED: 1550
   response: 7EC046207023E
 - expected_values:

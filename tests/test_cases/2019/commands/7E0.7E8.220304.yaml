@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     FUSIONH_CMD_GEN_V: 14.31938
   response: 7E805620304729F
+- expected_values:
+    FUSIONH_CMD_GEN_V: 14.53118
+  response: '7E8056203047451'
