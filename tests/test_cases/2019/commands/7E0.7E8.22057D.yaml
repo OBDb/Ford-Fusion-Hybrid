@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.22057D
 test_cases:
 - expected_values:
+    FUSIONH_AAT_ALT: 19
+  response: 7E80462057D76
+- expected_values:
+    FUSIONH_AAT_ALT: 20
+  response: 7E80462057D78
+- expected_values:
     FUSIONH_AAT_ALT: 30
   response: 7E80462057D8C
 - expected_values:
