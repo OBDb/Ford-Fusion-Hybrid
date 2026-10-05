@@ -4,5 +4,5 @@ test_cases:
     FUSIONH_HVBAT_SOC_DISP: 17.5
   response: 7EC0462484523
 - expected_values:
-    FUSIONH_HVBAT_SOC_DISP: 89.5
-  response: 7EC04624845B3
+    FUSIONH_HVBAT_SOC_DISP: 94
+  response: 7EC04624845BC
