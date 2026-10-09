@@ -4,8 +4,8 @@ test_cases:
     FUSIONH_HIGH_V_BAT_CURRENT: 0
   response: 7EC0562480B0000
 - expected_values:
-    FUSIONH_HIGH_V_BAT_CURRENT: 10.22
-  response: 7EC0562480B01FF
+    FUSIONH_HIGH_V_BAT_CURRENT: 5.1
+  response: 7EC0562480B00FF
 - expected_values:
     FUSIONH_HIGH_V_BAT_CURRENT: -5.12
   response: 7EC0562480BFF00
