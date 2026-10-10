@@ -1,8 +1,8 @@
 command_id: 7E4.7EC.22480D|fc=1
 test_cases:
 - expected_values:
-    FUSIONH_HVBAT_V: 259.81
-  response: 7EC0562480D657D
+    FUSIONH_HVBAT_V: 255.66
+  response: 7EC0562480D63DE
 - expected_values:
     FUSIONH_HVBAT_V: 268.79
   response: 7EC0562480D68FF
