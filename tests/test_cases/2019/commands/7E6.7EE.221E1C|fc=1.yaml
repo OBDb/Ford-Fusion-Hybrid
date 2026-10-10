@@ -7,11 +7,11 @@ test_cases:
     FUSIONH_TT: 31.9375
   response: 7EE05621E1C01FF
 - expected_values:
+    FUSIONH_TT: 32
+  response: 7EE05621E1C0200
+- expected_values:
     FUSIONH_TT: 32.8125
   response: 7EE05621E1C020D
 - expected_values:
-    FUSIONH_TT: 48
-  response: 7EE05621E1C0300
-- expected_values:
-    FUSIONH_TT: 64.0625
-  response: 7EE05621E1C0401
+    FUSIONH_TT: 64
+  response: 7EE05621E1C0400
