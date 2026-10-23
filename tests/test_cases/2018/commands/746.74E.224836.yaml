@@ -1,0 +1,8 @@
+command_id: 746.74E.224836
+test_cases:
+- expected_values:
+    FUSIONH_DCDC_LV_A: 13
+  response: 74E046248360D
+- expected_values:
+    FUSIONH_DCDC_LV_A: 61
+  response: 74E046248363D

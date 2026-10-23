@@ -1,0 +1,8 @@
+command_id: 7E4.7EC.22483F
+test_cases:
+- expected_values:
+    FUSIONH_BAT_V_VARIATION_BAT: 0.005
+  response: 7EC0562483F0005
+- expected_values:
+    FUSIONH_BAT_V_VARIATION_BAT: 0.053
+  response: 7EC0562483F0035

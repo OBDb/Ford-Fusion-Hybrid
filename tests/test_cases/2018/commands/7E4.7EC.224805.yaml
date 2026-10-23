@@ -1,0 +1,14 @@
+command_id: 7E4.7EC.224805
+test_cases:
+- expected_values:
+    FUSIONH_CONTACTOR_V_POS: 263.74
+  response: 7EC056248053383
+- expected_values:
+    FUSIONH_CONTACTOR_V_POS: 281.6
+  response: 7EC056248053700
+- expected_values:
+    FUSIONH_CONTACTOR_V_POS: 301.98
+  response: 7EC056248053AFB
+- expected_values:
+    FUSIONH_CONTACTOR_V_POS: 302.32
+  response: 7EC056248053B0C

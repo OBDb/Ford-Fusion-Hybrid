@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220334
+test_cases:
+- expected_values:
+    FUSIONH_PCM_CYL_HEAD_T_CORR: 72.54688
+  response: '7E8056203341223'
+- expected_values:
+    FUSIONH_PCM_CYL_HEAD_T_CORR: 83.875
+  response: 7E80562033414F8
+- expected_values:
+    FUSIONH_PCM_CYL_HEAD_T_CORR: 84.01562
+  response: '7E8056203341501'
+- expected_values:
+    FUSIONH_PCM_CYL_HEAD_T_CORR: 88.34375
+  response: '7E8056203341616'

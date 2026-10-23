@@ -1,0 +1,17 @@
+command_id: 7E6.7EE.22DD05
+test_cases:
+- expected_values:
+    FUSIONH_OUTSIDE_T: 68.2
+  response: 7EE0462DD053B
+- expected_values:
+    FUSIONH_OUTSIDE_T: 70
+  response: 7EE0462DD053C
+- expected_values:
+    FUSIONH_OUTSIDE_T: 71.8
+  response: 7EE0462DD053D
+- expected_values:
+    FUSIONH_OUTSIDE_T: 73.6
+  response: 7EE0462DD053E
+- expected_values:
+    FUSIONH_OUTSIDE_T: 75.4
+  response: 7EE0462DD053F

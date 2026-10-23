@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220301
+test_cases:
+- expected_values:
+    FUSIONH_MAP_V: 1.10938
+  response: '7E8056203010470'
+- expected_values:
+    FUSIONH_MAP_V: 2.45312
+  response: 7E80562030109D0
+- expected_values:
+    FUSIONH_MAP_V: 4.00293
+  response: '7E8056203011003'

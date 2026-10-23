@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2203E8
+test_cases:
+- expected_values:
+    FUSIONH_OAR: 0.013
+  response: 7E8056203E800D5
+- expected_values:
+    FUSIONH_OAR: 0.07703
+  response: 7E8056203E804EE
+- expected_values:
+    FUSIONH_OAR: 0.23236
+  response: 7E8056203E80EDF
+- expected_values:
+    FUSIONH_OAR: 0
+  response: 7E8056203E8FFAC
