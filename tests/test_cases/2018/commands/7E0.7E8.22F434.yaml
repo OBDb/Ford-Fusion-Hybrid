@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22F434
+test_cases:
+- expected_values:
+    FUSIONH_AIR_FUEL_RAT: 0
+  response: 7E80762F43400008000
+- expected_values:
+    FUSIONH_AIR_FUEL_RAT: 13.93931
+  response: 7E80762F43479DF7FAB
+- expected_values:
+    FUSIONH_AIR_FUEL_RAT: 18.87184
+  response: 7E80762F434A4FF8077
+- expected_values:
+    FUSIONH_AIR_FUEL_RAT: 29.2801
+  response: 7E80762F434FFFF81C4
+- expected_values:
+    FUSIONH_AIR_FUEL_RAT: 29.2801
+  response: 7E80762F434FFFF81FE
+- expected_values:
+    FUSIONH_AIR_FUEL_RAT: 29.2801
+  response: 7E80762F434FFFF8203

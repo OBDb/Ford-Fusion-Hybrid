@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221279
+test_cases:
+- expected_values:
+    FUSIONH_IAT_SENS_V: 1.61779
+  response: 7E805621279014B
+- expected_values:
+    FUSIONH_IAT_SENS_V: 2.1261
+  response: 7E80562127901B3

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2203B9
+test_cases:
+- expected_values:
+    FUSIONH_FAN_SPD_DES: 7.99878
+  response: 7E8056203B90A3D
+- expected_values:
+    FUSIONH_FAN_SPD_DES: 33.58816
+  response: 7E8056203B92AFE
+- expected_values:
+    FUSIONH_FAN_SPD_DES: 38.28489
+  response: 7E8056203B93101

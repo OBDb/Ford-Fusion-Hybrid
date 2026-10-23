@@ -1,0 +1,14 @@
+command_id: 7E4.7EC.224801|fc=1
+test_cases:
+- expected_values:
+    FUSIONH_HVBAT_SOC: 44.67
+  response: 7EC05624801573F
+- expected_values:
+    FUSIONH_HVBAT_SOC: 53.756
+  response: 7EC0562480168FE
+- expected_values:
+    FUSIONH_HVBAT_SOC: 57.354
+  response: 7EC056248017005
+- expected_values:
+    FUSIONH_HVBAT_SOC: 73.606
+  response: 7EC056248018FC3

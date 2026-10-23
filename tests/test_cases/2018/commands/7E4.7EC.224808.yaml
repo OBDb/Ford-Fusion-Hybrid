@@ -1,0 +1,18 @@
+command_id: 7E4.7EC.224808
+test_cases:
+- expected_values:
+    FUSIONH_HVBAT_T_MAX: 23
+    FUSIONH_HVBAT_T_MIN: 22
+  response: 7EC0762480849483249
+- expected_values:
+    FUSIONH_HVBAT_T_MAX: 34
+    FUSIONH_HVBAT_T_MIN: 31
+  response: 7EC0762480854513452
+- expected_values:
+    FUSIONH_HVBAT_T_MAX: 34
+    FUSIONH_HVBAT_T_MIN: 31
+  response: 7EC0762480854513453
+- expected_values:
+    FUSIONH_HVBAT_T_MAX: 34
+    FUSIONH_HVBAT_T_MIN: 31
+  response: 7EC0762480854513552

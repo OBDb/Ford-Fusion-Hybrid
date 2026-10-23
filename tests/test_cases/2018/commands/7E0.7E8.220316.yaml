@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.220316
+test_cases:
+- expected_values:
+    FUSIONH_VCT_INT_DUTY: 0
+  response: '7E8056203160000'
+- expected_values:
+    FUSIONH_VCT_INT_DUTY: 36.39221
+  response: 7E8056203162E95
+- expected_values:
+    FUSIONH_VCT_INT_DUTY: 39.95361
+  response: '7E8056203163324'
+- expected_values:
+    FUSIONH_VCT_INT_DUTY: 40.45105
+  response: 7E80562031633C7
+- expected_values:
+    FUSIONH_VCT_INT_DUTY: 40.82031
+  response: '7E8056203163440'
+- expected_values:
+    FUSIONH_VCT_INT_DUTY: 42.96875
+  response: '7E8056203163700'
+- expected_values:
+    FUSIONH_VCT_INT_DUTY: 46.85364
+  response: 7E8056203163BF9
+- expected_values:
+    FUSIONH_VCT_INT_DUTY: 49.56665
+  response: 7E8056203163F72
+- expected_values:
+    FUSIONH_VCT_INT_DUTY: 79.99878
+  response: '7E8056203166666'

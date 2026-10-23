@@ -1,0 +1,14 @@
+command_id: 7E4.7EC.224815
+test_cases:
+- expected_values:
+    FUSIONH_MAX_DISCH_PWR_LIM: 14.75
+  response: 7EC046248153B
+- expected_values:
+    FUSIONH_MAX_DISCH_PWR_LIM: 16
+  response: 7EC0462481540
+- expected_values:
+    FUSIONH_MAX_DISCH_PWR_LIM: 27.5
+  response: 7EC046248156E
+- expected_values:
+    FUSIONH_MAX_DISCH_PWR_LIM: 35
+  response: 7EC046248158C

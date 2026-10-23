@@ -1,0 +1,14 @@
+command_id: 7E4.7EC.22DD04
+test_cases:
+- expected_values:
+    FUSIONH_T_INSIDE_CAR: 69.8
+  response: 7EC0462DD043D
+- expected_values:
+    FUSIONH_T_INSIDE_CAR: 71.6
+  response: 7EC0462DD043E
+- expected_values:
+    FUSIONH_T_INSIDE_CAR: 73.4
+  response: 7EC0462DD043F
+- expected_values:
+    FUSIONH_T_INSIDE_CAR: 75.2
+  response: 7EC0462DD0440

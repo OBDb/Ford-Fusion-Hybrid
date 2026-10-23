@@ -1,0 +1,11 @@
+command_id: 7E6.7EE.221E2C
+test_cases:
+- expected_values:
+    FUSIONH_PRI_MOTOR_RPM: 0
+  response: 7EE05621E2C0000
+- expected_values:
+    FUSIONH_PRI_MOTOR_RPM: 4600
+  response: 7EE05621E2C11F8
+- expected_values:
+    FUSIONH_PRI_MOTOR_RPM: -20
+  response: 7EE05621E2CFFEC
