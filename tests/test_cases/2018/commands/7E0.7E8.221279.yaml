@@ -4,5 +4,5 @@ test_cases:
     FUSIONH_IAT_SENS_V: 1.43206
   response: '7E8056212790125'
 - expected_values:
-    FUSIONH_IAT_SENS_V: 2.13587
-  response: 7E80562127901B5
+    FUSIONH_IAT_SENS_V: 2.15543
+  response: 7E80562127901B9

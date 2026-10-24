@@ -4,8 +4,8 @@ test_cases:
     FUSIONH_KS2_RAW: 0
   response: '7E8056204040000'
 - expected_values:
-    FUSIONH_KS2_RAW: 221
-  response: 7E80562040400DD
+    FUSIONH_KS2_RAW: 235
+  response: 7E80562040400EB
 - expected_values:
     FUSIONH_KS2_RAW: 262
   response: '7E8056204040106'

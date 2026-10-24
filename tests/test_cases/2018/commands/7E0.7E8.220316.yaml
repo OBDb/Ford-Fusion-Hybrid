@@ -4,8 +4,8 @@ test_cases:
     FUSIONH_VCT_INT_DUTY: 0
   response: '7E8056203160000'
 - expected_values:
-    FUSIONH_VCT_INT_DUTY: 46.85364
-  response: 7E8056203163BF9
+    FUSIONH_VCT_INT_DUTY: 50.76599
+  response: 7E80562031640FB
 - expected_values:
     FUSIONH_VCT_INT_DUTY: 79.99878
   response: '7E8056203166666'
