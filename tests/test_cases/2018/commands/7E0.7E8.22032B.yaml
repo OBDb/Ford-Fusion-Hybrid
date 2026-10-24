@@ -4,5 +4,5 @@ test_cases:
     FUSIONH_ACC_POS: 0
   response: 7E80462032B00
 - expected_values:
-    FUSIONH_ACC_POS: 65
-  response: 7E80462032B82
+    FUSIONH_ACC_POS: 66.5
+  response: 7E80462032B85

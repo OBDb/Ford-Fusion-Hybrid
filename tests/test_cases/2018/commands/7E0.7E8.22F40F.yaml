@@ -4,5 +4,5 @@ test_cases:
     FUSIONH_IAT_ALT2: 30
   response: 7E80462F40F46
 - expected_values:
-    FUSIONH_IAT_ALT2: 42
-  response: 7E80462F40F52
+    FUSIONH_IAT_ALT2: 46
+  response: 7E80462F40F56

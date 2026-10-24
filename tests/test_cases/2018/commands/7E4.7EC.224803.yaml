@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     FUSIONH_HV_POS_LEAK_V: 2.046
   response: 7EC0562480307FE
+- expected_values:
+    FUSIONH_HV_POS_LEAK_V: 2.047
+  response: 7EC0562480307FF

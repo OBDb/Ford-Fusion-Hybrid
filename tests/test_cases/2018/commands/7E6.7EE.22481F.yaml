@@ -4,5 +4,5 @@ test_cases:
     FUSIONH_MOTOR_COIL_T: 105.8
   response: 7EE0562481F0029
 - expected_values:
-    FUSIONH_MOTOR_COIL_T: 168.8
-  response: 7EE0562481F004C
+    FUSIONH_MOTOR_COIL_T: 176
+  response: 7EE0562481F0050

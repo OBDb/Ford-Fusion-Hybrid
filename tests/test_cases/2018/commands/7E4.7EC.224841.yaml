@@ -4,8 +4,8 @@ test_cases:
     FUSIONH_AVG_BAT_MODULE_V: 3.519
   response: 7EC056248410DBF
 - expected_values:
-    FUSIONH_AVG_BAT_MODULE_V: 3.837
-  response: 7EC056248410EFD
+    FUSIONH_AVG_BAT_MODULE_V: 3.838
+  response: 7EC056248410EFE
 - expected_values:
     FUSIONH_AVG_BAT_MODULE_V: 3.841
   response: 7EC056248410F01

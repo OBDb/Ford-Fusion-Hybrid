@@ -4,8 +4,8 @@ test_cases:
     FUSIONH_PRI_MOTOR_RPM: 0
   response: 7EE05621E2C0000
 - expected_values:
-    FUSIONH_PRI_MOTOR_RPM: 4600
-  response: 7EE05621E2C11F8
-- expected_values:
     FUSIONH_PRI_MOTOR_RPM: -20
   response: 7EE05621E2CFFEC
+- expected_values:
+    FUSIONH_PRI_MOTOR_RPM: -1
+  response: 7EE05621E2CFFFF
