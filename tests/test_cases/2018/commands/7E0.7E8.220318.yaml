@@ -4,8 +4,8 @@ test_cases:
     FUSIONH_VCT_INT_ACT: 0
   response: '7E8056203180000'
 - expected_values:
+    FUSIONH_VCT_INT_ACT: -32.125
+  response: 7E805620318FDFE
+- expected_values:
     FUSIONH_VCT_INT_ACT: -13.9375
   response: 7E805620318FF21
-- expected_values:
-    FUSIONH_VCT_INT_ACT: -0.25
-  response: 7E805620318FFFC

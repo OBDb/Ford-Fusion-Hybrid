@@ -4,5 +4,5 @@ test_cases:
     FUSIONH_ODO_7E0: 224629
   response: 7E80662DD01036D75
 - expected_values:
-    FUSIONH_ODO_7E0: 224679
-  response: 7E80662DD01036DA7
+    FUSIONH_ODO_7E0: 224698
+  response: 7E80662DD01036DBA
