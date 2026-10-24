@@ -7,14 +7,14 @@ test_cases:
     FUSIONH_AIR_FUEL_RAT: 13.93931
   response: 7E80762F43479DF7FAB
 - expected_values:
+    FUSIONH_AIR_FUEL_RAT: 14.7471
+  response: 7E80762F43480EF7FFF
+- expected_values:
     FUSIONH_AIR_FUEL_RAT: 16.69866
   response: 7E80762F43491FF8043
 - expected_values:
     FUSIONH_AIR_FUEL_RAT: 29.2801
   response: 7E80762F434FFFF8181
-- expected_values:
-    FUSIONH_AIR_FUEL_RAT: 29.2801
-  response: 7E80762F434FFFF81FE
 - expected_values:
     FUSIONH_AIR_FUEL_RAT: 29.2801
   response: 7E80762F434FFFF8203

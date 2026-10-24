@@ -10,5 +10,5 @@ test_cases:
     FUSIONH_ETC_ANG_ACT: 13.49414
   response: 7E80562093C1AFD
 - expected_values:
-    FUSIONH_ETC_ANG_ACT: 70.91602
-  response: 7E80562093C8DD5
+    FUSIONH_ETC_ANG_ACT: 71.91797
+  response: 7E80562093C8FD6

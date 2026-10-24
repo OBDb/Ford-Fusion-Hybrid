@@ -4,5 +4,5 @@ test_cases:
     FUSIONH_MIL_DIST: 17
   response: 7E80562F4210011
 - expected_values:
-    FUSIONH_MIL_DIST: 53
-  response: 7E80562F4210035
+    FUSIONH_MIL_DIST: 67
+  response: 7E80562F4210043

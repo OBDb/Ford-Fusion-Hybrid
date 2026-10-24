@@ -4,8 +4,8 @@ test_cases:
     FUSIONH_VSS_HD: 0
   response: '7E8056215050000'
 - expected_values:
-    FUSIONH_VSS_HD: 79.92188
-  response: 7E80562150527F6
+    FUSIONH_VSS_HD: 23.98438
+  response: 7E8056215050BFE
 - expected_values:
     FUSIONH_VSS_HD: 89.82031
   response: 7E8056215052CE9

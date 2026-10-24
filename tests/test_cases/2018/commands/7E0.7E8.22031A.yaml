@@ -4,8 +4,8 @@ test_cases:
     FUSIONH_VCT_INT_ERR: 0
   response: 7E80562031A0000
 - expected_values:
-    FUSIONH_VCT_INT_ERR: -7
-  response: 7E80562031AFF90
+    FUSIONH_VCT_INT_ERR: -8.125
+  response: 7E80562031AFF7E
 - expected_values:
     FUSIONH_VCT_INT_ERR: -0.0625
   response: 7E80562031AFFFF

@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     FUSIONH_STFT: 2.34375
   response: 7E80462F40683
+- expected_values:
+    FUSIONH_STFT: 6.25
+  response: 7E80462F40688
