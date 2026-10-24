@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.220338
 test_cases:
 - expected_values:
+    FUSIONH_ETC_TRIM_LRN: 0
+  response: '7E8056203380000'
+- expected_values:
     FUSIONH_ETC_TRIM_LRN: 0.05664
   response: 7E805620338001D
 - expected_values:
