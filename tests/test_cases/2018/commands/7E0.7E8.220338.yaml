@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     FUSIONH_ETC_TRIM_LRN: 0.05664
   response: 7E805620338001D
+- expected_values:
+    FUSIONH_ETC_TRIM_LRN: 0.18945
+  response: '7E8056203380061'

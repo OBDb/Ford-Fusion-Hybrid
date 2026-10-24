@@ -7,5 +7,5 @@ test_cases:
     FUSIONH_EVAP_V: 1531
   response: 7E80562038E05FB
 - expected_values:
-    FUSIONH_EVAP_V: 1561
-  response: 7E80562038E0619
+    FUSIONH_EVAP_V: 1536
+  response: 7E80562038E0600

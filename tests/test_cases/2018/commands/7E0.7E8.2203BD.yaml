@@ -10,5 +10,11 @@ test_cases:
     FUSIONH_CL_LC: 0.01038
   response: 7E8056203BD0055
 - expected_values:
+    FUSIONH_CL_LC: 0.01074
+  response: 7E8056203BD0058
+- expected_values:
+    FUSIONH_CL_LC: -0.01282
+  response: 7E8056203BDFF97
+- expected_values:
     FUSIONH_CL_LC: -0.00989
   response: 7E8056203BDFFAF

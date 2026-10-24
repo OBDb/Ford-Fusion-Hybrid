@@ -4,8 +4,8 @@ test_cases:
     FUSIONH_MAP_V: 1.10938
   response: '7E8056203010470'
 - expected_values:
-    FUSIONH_MAP_V: 2.45312
-  response: 7E80562030109D0
+    FUSIONH_MAP_V: 3.24512
+  response: 7E8056203010CFB
 - expected_values:
     FUSIONH_MAP_V: 4.00293
   response: '7E8056203011003'

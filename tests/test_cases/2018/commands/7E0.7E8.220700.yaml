@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     FUSIONH_IAT_FAULT: 8
   response: '7E80762070008800000'
+- expected_values:
+    FUSIONH_IAT_FAULT: 15
+  response: 7E8076207000F800000

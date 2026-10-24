@@ -4,5 +4,5 @@ test_cases:
     FUSIONH_HVBAT_T: 23
   response: 7EC0462480049
 - expected_values:
-    FUSIONH_HVBAT_T: 34
-  response: 7EC0462480054
+    FUSIONH_HVBAT_T: 37
+  response: 7EC0462480057

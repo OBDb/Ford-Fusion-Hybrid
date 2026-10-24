@@ -4,8 +4,8 @@ test_cases:
     FUSIONH_RUN_TIME: 1
   response: 7E80562F41F0001
 - expected_values:
-    FUSIONH_RUN_TIME: 252
-  response: 7E80562F41F00FC
+    FUSIONH_RUN_TIME: 3069
+  response: 7E80562F41F0BFD
 - expected_values:
-    FUSIONH_RUN_TIME: 793
-  response: 7E80562F41F0319
+    FUSIONH_RUN_TIME: 3339
+  response: 7E80562F41F0D0B
