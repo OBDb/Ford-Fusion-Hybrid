@@ -1,0 +1,16 @@
+command_id: 7E0.01A3
+test_cases:
+- expected_values:
+    EVAP_A_VP: 0
+    EVAP_A_VPW: 0.264
+    EVAP_A_VPW_SUP: 1
+    EVAP_A_VP_SUP: 0
+    EVAP_B_VP: 0
+    EVAP_B_VPW: 0
+    EVAP_B_VPW_SUP: 0
+    EVAP_B_VP_SUP: 0
+    EVAP_SEAL: 0
+    EVAP_SEAL_SUP: 0
+  response: |-
+    7E8100B41A302000000
+    7E82184000000000000
