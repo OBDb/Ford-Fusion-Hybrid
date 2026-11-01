@@ -7,5 +7,5 @@ test_cases:
     FUSIONH_RPM: 1215.75
   response: 7E80562F40C12FF
 - expected_values:
-    FUSIONH_RPM: 5095
-  response: 7E80562F40C4F9C
+    FUSIONH_RPM: 5385.75
+  response: 7E80562F40C5427
