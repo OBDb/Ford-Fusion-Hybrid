@@ -602,7 +602,7 @@
   "signals": [
     {"id": "FUSIONH_EGR", "path": "Engine", "fmt": { "len": 8, "max": 100, "unit": "percent" }, "name": "Exhaust gas recirculation"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F42F"}, "freq": 5, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016] },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F42F"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016] },
   "signals": [
     {"id": "FUSIONH_FLI_7E0", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
