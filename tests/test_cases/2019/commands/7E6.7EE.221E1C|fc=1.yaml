@@ -1,11 +1,11 @@
 command_id: 7E6.7EE.221E1C|fc=1
 test_cases:
 - expected_values:
-    FUSIONH_TT: 17.375
-  response: 7EE05621E1C0116
+    FUSIONH_TT: 14.6875
+  response: 7EE05621E1C00EB
 - expected_values:
-    FUSIONH_TT: 31.9375
-  response: 7EE05621E1C01FF
+    FUSIONH_TT: 15.9375
+  response: 7EE05621E1C00FF
 - expected_values:
     FUSIONH_TT: 32
   response: 7EE05621E1C0200
