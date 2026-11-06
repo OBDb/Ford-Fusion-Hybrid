@@ -1,8 +1,8 @@
 command_id: 726.72E.222814
 test_cases:
 - expected_values:
-    FUSIONH_TP_FR: 28.85
-  response: '72E056228140241'
+    FUSIONH_TP_FR: 28.35
+  response: '72E056228140237'
 - expected_values:
     FUSIONH_TP_FR: 37.15
   response: 72E0562281402E7
