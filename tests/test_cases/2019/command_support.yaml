@@ -196,6 +196,7 @@ supported_commands_by_ecu:
   - 0142:VPWR
   - 0149:APP_D
   - 015B:BAT_SOC
+  - 7E4.7EC.0105
   - 7E4.7EC.0131
   - 7E4.7EC.015B
   - 7E4.7EC.220701:FUSIONH_FAN_SPD_DEMANDED
@@ -405,7 +406,6 @@ unsupported_commands_by_ecu:
   - 7E2.7EA.22DD04
   - 7E2.7EA.22DD05
   "7E4":
-  - 7E4.7EC.0105
   - 7E4.7EC.010C
   - 7E4.7EC.22000F:FUSIONH_HVBAT_IAT
   - 7E4.7EC.2205A1
