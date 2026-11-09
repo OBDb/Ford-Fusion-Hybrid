@@ -4,5 +4,5 @@ test_cases:
     FUSIONH_12V_V: 11.5
   response: 72E0462402A6E
 - expected_values:
-    FUSIONH_12V_V: 14.5
-  response: 72E0462402AAA
+    FUSIONH_12V_V: 14.6
+  response: 72E0462402AAC
