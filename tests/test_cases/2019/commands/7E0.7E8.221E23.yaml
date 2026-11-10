@@ -1,6 +1,14 @@
 command_id: 7E0.7E8.221E23
 test_cases:
 - expected_values:
+    FUSIONH_GEAR_SHFT: DRIVE
+  response: 7E804621E2328
+- expected_values:
+    FUSIONH_GEAR_SHFT: DRIVE
+  response: |-
+    7E804621E2328
+    7EE04621E232B
+- expected_values:
     FUSIONH_GEAR_SHFT: REVERSE
   response: 7E804621E233C
 - expected_values:
@@ -11,6 +19,11 @@ test_cases:
   response: |-
     7E804621E2346
     7EE04621E2346
+- expected_values:
+    FUSIONH_GEAR_SHFT: DRIVE
+  response: |-
+    7EE04621E232B
+    7E804621E2328
 - expected_values:
     FUSIONH_GEAR_SHFT: REVERSE
   response: |-
