@@ -1,36 +1,36 @@
 command_id: 7DF.7EE.221E23
 test_cases:
 - expected_values:
-    FUSIONH_GEAR_SHFT_V2: 43
+    FUSIONH_GEAR_SHFT_V2: DRIVE
   response: |-
     7E804621E2328
     7EE04621E232B
 - expected_values:
-    FUSIONH_GEAR_SHFT_V2: 70
+    FUSIONH_GEAR_SHFT_V2: PARK
   response: |-
     7E804621E2346
     7EE04621E2346
 - expected_values:
-    FUSIONH_GEAR_SHFT_V2: 43
+    FUSIONH_GEAR_SHFT_V2: DRIVE
   response: 7EE04621E232B
 - expected_values:
-    FUSIONH_GEAR_SHFT_V2: 43
+    FUSIONH_GEAR_SHFT_V2: DRIVE
   response: |-
     7EE04621E232B
     7E804621E2328
 - expected_values:
-    FUSIONH_GEAR_SHFT_V2: 60
+    FUSIONH_GEAR_SHFT_V2: REVERSE
   response: 7EE04621E233C
 - expected_values:
-    FUSIONH_GEAR_SHFT_V2: 60
+    FUSIONH_GEAR_SHFT_V2: REVERSE
   response: |-
     7EE04621E233C
     7E804621E233C
 - expected_values:
-    FUSIONH_GEAR_SHFT_V2: 70
+    FUSIONH_GEAR_SHFT_V2: PARK
   response: 7EE04621E2346
 - expected_values:
-    FUSIONH_GEAR_SHFT_V2: 70
+    FUSIONH_GEAR_SHFT_V2: PARK
   response: |-
     7EE04621E2346
     7E804621E2346

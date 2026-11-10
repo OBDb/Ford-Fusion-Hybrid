@@ -1,8 +1,16 @@
 command_id: 7E0.7E8.221E23
 test_cases:
 - expected_values:
-    FUSIONH_GEAR_SHFT: NEUTRAL
-  response: 7E804621E2332
+    FUSIONH_GEAR_SHFT: LOW
+  response: 7E804621E2314
+- expected_values:
+    FUSIONH_GEAR_SHFT: DRIVE
+  response: 7E804621E2328
+- expected_values:
+    FUSIONH_GEAR_SHFT: DRIVE
+  response: |-
+    7E804621E2328
+    7EE04621E232B
 - expected_values:
     FUSIONH_GEAR_SHFT: NEUTRAL
   response: |-
@@ -22,7 +30,7 @@ test_cases:
     7E804621E2346
     7EE04621E2346
 - expected_values:
-    FUSIONH_GEAR_SHFT: NEUTRAL
+    FUSIONH_GEAR_SHFT: DRIVE
   response: |-
-    7EE04621E2332
-    7E804621E2332
+    7EE04621E232B
+    7E804621E2328
