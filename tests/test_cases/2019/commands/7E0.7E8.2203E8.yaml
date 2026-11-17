@@ -4,8 +4,8 @@ test_cases:
     FUSIONH_OAR: 0.32819
   response: 7E8056203E81501
 - expected_values:
-    FUSIONH_OAR: 0
+    FUSIONH_OAR: -0.18683
   response: 7E8056203E8F40B
 - expected_values:
-    FUSIONH_OAR: 0
+    FUSIONH_OAR: -0.01001
   response: 7E8056203E8FF5C
