@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     FUSIONH_BAT_V_VARIATION_BAT: 0.008
   response: 7EC0562483F0008
+- expected_values:
+    FUSIONH_BAT_V_VARIATION_BAT: 0.013
+  response: 7EC0562483F000D

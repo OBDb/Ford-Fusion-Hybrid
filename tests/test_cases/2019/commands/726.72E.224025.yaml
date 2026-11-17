@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     FUSIONH_BAT_QUIESCENT: 50
   response: '72E056240250834'
+- expected_values:
+    FUSIONH_BAT_QUIESCENT: 69
+  response: 72E05624025085A

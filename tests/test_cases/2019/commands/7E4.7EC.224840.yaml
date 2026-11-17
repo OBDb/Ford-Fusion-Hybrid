@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     FUSIONH_BATT_MIN_BATT_V: 3.689
   response: 7EC056248400E69
+- expected_values:
+    FUSIONH_BATT_MIN_BATT_V: 3.754
+  response: 7EC056248400EAA

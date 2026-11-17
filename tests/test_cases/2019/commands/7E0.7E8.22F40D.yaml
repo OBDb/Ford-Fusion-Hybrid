@@ -4,5 +4,8 @@ test_cases:
     FUSIONH_VSS: 0
   response: 7E80462F40D00
 - expected_values:
+    FUSIONH_VSS: 85
+  response: 7E80462F40D55
+- expected_values:
     FUSIONH_VSS: 97
   response: 7E80462F40D61

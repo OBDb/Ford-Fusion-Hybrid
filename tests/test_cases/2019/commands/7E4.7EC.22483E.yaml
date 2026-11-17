@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     FUSIONH_BATT_SOC: 1.076
   response: 7EC0562483E0434
+- expected_values:
+    FUSIONH_BATT_SOC: 1.167
+  response: 7EC0562483E048F
