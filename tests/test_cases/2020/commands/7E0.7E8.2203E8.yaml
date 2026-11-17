@@ -10,5 +10,5 @@ test_cases:
     FUSIONH_OAR: 0.10925
   response: 7E8056203E806FE
 - expected_values:
-    FUSIONH_OAR: 0
+    FUSIONH_OAR: -0.01257
   response: 7E8056203E8FF32
