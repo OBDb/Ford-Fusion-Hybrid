@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     FUSIONH_PRI_MOTOR_INV_T: 49
   response: 7EE056248240031
+- expected_values:
+    FUSIONH_PRI_MOTOR_INV_T: 52
+  response: 7EE056248240034

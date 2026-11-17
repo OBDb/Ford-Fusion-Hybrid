@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     FUSIONH_PRI_MOTOR_RPM: 0
   response: 7EE05621E2C0000
+- expected_values:
+    FUSIONH_PRI_MOTOR_RPM: 6116
+  response: 7EE05621E2C17E4
