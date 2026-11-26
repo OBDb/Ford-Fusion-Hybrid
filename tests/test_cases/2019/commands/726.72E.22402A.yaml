@@ -1,8 +1,8 @@
 command_id: 726.72E.22402A
 test_cases:
 - expected_values:
-    FUSIONH_12V_V: 6.6
-  response: 72E0462402A0C
+    FUSIONH_12V_V: 6.1
+  response: 72E0462402A02
 - expected_values:
     FUSIONH_12V_V: 14.7
   response: 72E0462402AAE
